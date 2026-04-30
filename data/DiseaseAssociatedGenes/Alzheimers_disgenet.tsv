@@ -1,0 +1,212 @@
+ei	N CTs	N variants g	N PMIDs Chemicals	Gene	pLI	Gene Full Name	First Ref.	Last Ref.	N Chemicals	N PMIDs	score	N diseases g	My Score	DSI g	DPI g	N variants gda
+0.967831681446705	73	189	0	APP	0.99999	amyloid beta precursor protein	1990	2023	0	120	1.0	56		0.41	0.92	163
+0.9438517686692869	5	312	0	PSEN1	0.99951	presenilin 1	1993	2022	0	32	1.0	47		0.46	0.92	8
+0.878341640235614	115	46	0	APOE	2.5529E-4	apolipoprotein E	1993	2020	0	14	1.0	105		0.35	0.92	17
+0.9669794512412401	244	196	0	MAPT	2.127E-5	microtubule associated protein tau	1993	2020	0	13	1.0	46		0.38	0.92	2
+0.9439834024896265	4	115	0	PSEN2	3.9026E-7	presenilin 2	1993	2020	0	9	1.0	12		0.49	0.83	1
+0.9137931034482759	5	354	0	GRN	0.041507	granulin precursor	1993	2020	0	6	1.0	28		0.41	0.92	2
+0.86	3	211	0	ACE	5.7955E-32	angiotensin I converting enzyme	1999	2019	0	5	1.0	124		0.36	0.92	3
+0.9565217391304348	4	62	0	TOMM40	0.99571	translocase of outer mitochondrial membrane 40	2016	2018	0	4	1.0	7		0.51	0.83	57
+0.9224137931034483	2	125	0	PPARG	0.21172	peroxisome proliferator activated receptor gamma	2005	2018	0	3	1.0	80		0.36	0.92	0
+1.0	1	118	0	NECTIN2	0.014296	nectin cell adhesion molecule 2	2018	2018	0	3	1.0	19		0.52	0.88	105
+0.8973384030418251	2	12	0	CLU	5.6844E-4	clusterin	2009	2011	0	3	1.0	29		0.42	0.88	11
+0.9804618117229129	5	40	0	TREM2	6.5751E-7	triggering receptor expressed on myeloid cells 2	2014	2017	0	2	1.0	13		0.45	0.92	3
+0.9846153846153847	1	39	0	ABCA7	6.7681E-103	ATP binding cassette subfamily A member 7	2011	2015	0	2	1.0	6		0.6	0.79	11
+0.96875	0	312	0	BIN1	1.3372E-11	bridging integrator 1	2011	2021	0	2	1.0	11		0.54	0.88	9
+0.9728997289972899	2	3	0	ACHE	0.81104	acetylcholinesterase (Yt blood group)	2013	2013	0	2	1.0	30		0.47	0.88	0
+0.9777777777777777	0	26	0	APOC1	0.11905	apolipoprotein C1	2018	2018	0	2	1.0	4		0.52	0.75	21
+0.9834437086092715	2	14	0	GSK3B	0.89836	glycogen synthase kinase 3 beta	2007	2013	0	2	1.0	42		0.4	0.88	0
+0.9137931034482759	0	8	0	PICALM	0.74462	phosphatidylinositol binding clathrin assembly protein	2009	2011	0	2	1.0	4		0.57	0.79	6
+0.9087719298245615	54	9	0	TNF	0.85687	tumor necrosis factor	2007	2007	0	1	1.0	315		0.25	0.96	0
+0.9655555555555555	6	5	0	BACE1	0.75815	beta-secretase 1	2006	2006	0	1	1.0	2		0.52	0.88	0
+0.9225181598062954	37	42	0	BDNF	0.99974	brain derived neurotrophic factor	2007	2007	0	1	1.0	63		0.35	0.92	0
+0.935251798561151	1	7	0	IDE	0.075489	insulin degrading enzyme	2007	2007	0	1	1.0	3		0.59	0.75	0
+0.8699551569506726	41	5	0	IL1B	0.48761	interleukin 1 beta	2008	2008	0	1	1.0	166		0.28	0.96	0
+0.9386792452830188	5	123	0	BCHE	6.2149E-16	butyrylcholinesterase	2013	2013	0	1	1.0	48		0.46	0.92	0
+0.9090909090909091	9	123	0	IGF1	0.75878	insulin like growth factor 1	2005	2005	0	1	1.0	73		0.31	0.92	0
+0.9528301886792453	1	25	0	ADAM10	1.0	ADAM metallopeptidase domain 10	2019	2019	0	1	1.0	11		0.49	0.88	1
+0.9791666666666666	2	12	0	SORL1	6.658E-8	sortilin related receptor 1			0	0	1.0	13		0.54	0.83	3
+0.9657142857142857	2	11	0	AGER	2.5887E-14	advanced glycosylation end-product specific receptor			0	0	1.0	52		0.37	0.88	0
+0.9247311827956989	14	99	0	SNCA	0.79656	synuclein alpha			0	0	1.0	31		0.42	0.88	0
+0.8918918918918919	0	124	0	HFE	9.9398E-10	homeostatic iron regulator	1993	2020	0	7	0.95	77		0.43	0.88	2
+0.875	0	19	0	NOS3	2.4053E-25	nitric oxide synthase 3	1993	2020	0	7	0.95	119		0.39	0.92	1
+0.9555555555555556	2	2	0	MAOB		monoamine oxidase B	1994	2011	0	2	0.95	22		0.52	0.92	0
+0.7959183673469388	1	8	0	CYP46A1	0.97633	cytochrome P450 family 46 subfamily A member 1	2009	2009	0	1	0.95	2		0.61	0.71	0
+0.9130434782608695	5	10	0	VEGFA	0.1881	vascular endothelial growth factor A	2005	2005	0	1	0.95	118		0.28	0.92	0
+0.8048780487804879	0	12	0	BACE2	0.72583	beta-secretase 2			0	0	0.95	1		0.6	0.83	1
+0.9390243902439024	0	75	0	MME	1.9574E-15	membrane metalloendopeptidase			0	0	0.95	32		0.38	0.92	2
+0.96	3	4	0	NTF3	0.96535	neurotrophin 3			0	0	0.95	15		0.49	0.88	1
+1.0	1	223	0	ADAM17	0.09836	ADAM metallopeptidase domain 17			0	0	0.95	9		0.46	0.88	1
+1.0	0	15	0	KLC1	0.95604	kinesin light chain 1			0	0	0.95	5		0.64	0.79	1
+0.9746835443037974	11	66	0	INS	0.019763	insulin	1998	2005	0	2	0.9	98		0.36	0.92	0
+0.9888888888888889	1	8	0	CD33	1.2195E-7	CD33 molecule	2011	2011	0	2	0.9	2		0.48	0.83	3
+0.9473684210526315	0	5	0	ABI3	2.6177E-7	ABI family member 3	2017	2017	0	1	0.9	1		0.66	0.67	2
+0.9411764705882353	4	70	0	LEP	0.0070036	leptin	2010	2010	0	1	0.9	63		0.35	0.92	0
+0.967741935483871	0	2	0	MS4A4A	7.2358E-7	membrane spanning 4-domains A4A	2011	2011	0	1	0.9	5		0.61	0.71	1
+1.0	0	597	0	PLCG2	0.99864	phospholipase C gamma 2	2017	2017	0	1	0.9	8		0.52	0.88	2
+0.9666666666666667	1	3	0	BAX	4.4621E-7	BCL2 associated X, apoptosis regulator	2008	2008	0	1	0.9	33		0.38	0.88	0
+0.926829268292683	1	28	0	BCL2	0.98901	BCL2 apoptosis regulator	2008	2008	0	1	0.9	83		0.32	0.88	0
+0.9047619047619048	0	3	0	APH1B	2.4892E-10	aph-1B gamma-secretase subunit	2021	2021	0	1	0.9	5		0.73	0.21	1
+1.0	1	3	0	CHRNA7	0.0017041	cholinergic receptor nicotinic alpha 7 subunit	2007	2007	0	1	0.9	31		0.5	0.88	0
+0.92	1	1	0	CRH	0.0059146	corticotropin releasing hormone	1995	1995	0	1	0.9	44		0.45	0.83	0
+1.0	0	8	0	PILRA	2.7289E-13	paired immunoglobin like type 2 receptor alpha	2021	2021	0	1	0.9	1		0.7	0.46	4
+0.8764044943820225	0	186	0	ESR1	0.99791	estrogen receptor 1	2007	2007	0	1	0.9	81		0.34	0.92	0
+0.9461538461538461	0	12	0	LRP8	0.40345	LDL receptor related protein 8			0	0	0.9	15		0.52	0.83	0
+0.9642857142857143	1	2	0	HTR6	5.4724E-6	5-hydroxytryptamine receptor 6			0	0	0.9	7		0.61	0.5	0
+0.8214285714285714	1	2	0	IL1A	0.060574	interleukin 1 alpha			0	0	0.9	72		0.41	0.88	0
+0.8987341772151899	0	44	0	LRP1	1.0	LDL receptor related protein 1			0	0	0.9	21		0.45	0.88	0
+0.9830508474576272	1	9	0	TLR4	4.0578E-4	toll like receptor 4			0	0	0.9	96		0.33	0.92	0
+0.9285714285714286	1	59	0	MAOA		monoamine oxidase A			0	0	0.9	41		0.47	0.92	0
+0.7727272727272727	0	34	0	PLAU	2.1468E-7	plasminogen activator, urokinase			0	0	0.9	67		0.42	0.88	0
+0.9855072463768116	3	0	0	S100B	0.05819	S100 calcium binding protein B			0	0	0.9	29		0.41	0.92	0
+0.859375	25	51	0	IL10	0.48334	interleukin 10			0	0	0.9	129		0.29	0.96	0
+0.9204545454545454	14	194	0	TTR	0.012905	transthyretin			0	0	0.9	29		0.41	0.88	0
+0.9859154929577465	1	1	0	GCG	0.13736	glucagon			0	0	0.9	33		0.41	0.88	0
+0.9142857142857143	1	33	0	UCHL1	0.99978	ubiquitin C-terminal hydrolase L1			0	0	0.9	15		0.42	0.88	0
+0.9917355371900827	0	18	0	NFE2L2	0.49709	NFE2 like bZIP transcription factor 2			0	0	0.9	74		0.36	0.92	0
+0.972972972972973	1	20	0	EIF2AK2	2.069E-5	eukaryotic translation initiation factor 2 alpha kinase 2			0	0	0.9	16		0.48	0.88	0
+1.0	0	41	0	HLA-DRB1		major histocompatibility complex, class II, DR beta 1			0	0	0.9	154		0.36	0.88	1
+0.84	5	10	0	ICAM1	1.834E-6	intercellular adhesion molecule 1			0	0	0.9	61		0.34	0.92	0
+0.9285714285714286	2	8	0	IGFBP3	0.060792	insulin like growth factor binding protein 3			0	0	0.9	20		0.41	0.88	0
+0.8095238095238095	12	5	0	IL2	0.84704	interleukin 2			0	0	0.9	85		0.33	0.96	0
+0.896551724137931	6	2	0	IL4	0.33956	interleukin 4			0	0	0.9	56		0.33	0.96	0
+0.9393939393939394	2	9	0	IRS1	1.3176E-4	insulin receptor substrate 1			0	0	0.9	19		0.48	0.88	0
+0.9900497512437811	0	3	0	CDK5	0.55415	cyclin dependent kinase 5			0	0	0.9	6		0.48	0.88	0
+1.0	2	257	0	VCP	1.0	valosin containing protein	1993	2020	0	6	0.85	34		0.46	0.92	1
+0.8928571428571429	0	22	0	MPO	3.2783E-16	myeloperoxidase	1993	2020	0	6	0.85	55		0.38	0.92	1
+1.0	1	149	0	CSF1R	0.97417	colony stimulating factor 1 receptor	1993	2020	0	6	0.85	28		0.43	0.88	2
+0.6842105263157895	0	2	0	A2M	9.1331E-20	alpha-2-macroglobulin	1998	2004	0	3	0.85	20		0.5	0.88	0
+0.7948717948717948	1	73	0	TF	1.0363E-12	transferrin	2004	2007	0	2	0.85	40		0.4	0.92	1
+0.8695652173913043	0	0	0	EIF2S1	0.99981	eukaryotic translation initiation factor 2 subunit alpha	2007	2007	0	1	0.85	7		0.5	0.88	0
+1.0	2	102	0	F2	0.14962	coagulation factor II, thrombin	1993	1993	0	1	0.85	71		0.41	0.88	0
+0.6666666666666666	8	10	0	CYP2D6	7.7866E-23	cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene)	1995	1995	0	1	0.85	111		0.45	0.92	0
+0.8064516129032258	0	17	0	NCSTN	1.0	nicastrin	2007	2007	0	1	0.85	6		0.65	0.67	0
+0.7619047619047619	0	9	0	SOD2	0.032187	superoxide dismutase 2	2009	2009	0	1	0.85	197		0.38	0.96	0
+0.8333333333333334	1	5	0	TFAM	0.086114	transcription factor A, mitochondrial	2007	2007	0	1	0.85	16		0.51	0.88	0
+0.8870967741935484	0	88	0	PRNP	3.2079E-4	prion protein (Kanno blood group)	2007	2007	0	1	0.85	29		0.43	0.92	0
+0.8444444444444444	1	61	0	APOA1	5.2702E-7	apolipoprotein A1			0	0	0.85	45		0.4	0.88	0
+0.9	0	306	0	ABCA1	2.0444E-12	ATP binding cassette subfamily A member 1			0	0	0.85	34		0.46	0.88	2
+0.85	2	245	0	C3	1.1541E-6	complement C3			0	0	0.85	46		0.43	0.88	0
+0.9024390243902439	0	2249	0	LDLR	1.1561E-30	low density lipoprotein receptor			0	0	0.85	37		0.45	0.88	1
+0.75	0	20	0	ECE1	0.98713	endothelin converting enzyme 1			0	0	0.85	13		0.53	0.75	0
+0.9302325581395349	0	18	0	ESR2	5.8401E-10	estrogen receptor 2			0	0	0.85	51		0.4	0.88	1
+1.0	0	131	0	CD2AP	9.6593E-6	CD2 associated protein	2011	2018	0	3	0.8	7		0.56	0.79	5
+1.0	0	8	0	EPHA1	7.1149E-26	EPH receptor A1	2011	2011	0	2	0.8	3		0.56	0.83	5
+0.8620689655172413	0	11	0	CST3	1.0564E-4	cystatin C	2007	2007	0	2	0.8	17		0.43	0.88	0
+0.9272727272727272	0	8	0	HMOX1	3.3466E-7	heme oxygenase 1	2000	2000	0	1	0.8	85		0.38	0.88	0
+0.9736842105263158	0	19	0	INPP5D	1.0	inositol polyphosphate-5-phosphatase D	2018	2018	0	1	0.8	3		0.54	0.83	6
+0.9743589743589743	0	463	0	IGF1R	1.0	insulin like growth factor 1 receptor	2005	2005	0	1	0.8	52		0.38	0.88	0
+1.0	0	14	0	PTK2B	4.2332E-5	protein tyrosine kinase 2 beta	2021	2021	0	1	0.8	8		0.5	0.83	4
+1.0	0	319	0	INSR	1.4394E-4	insulin receptor	2014	2014	0	1	0.8	32		0.42	0.88	0
+1.0	0	46	0	IGF2	0.9599	insulin like growth factor 2	2005	2005	0	1	0.8	44		0.38	0.88	0
+1.0	0	465	0	WWOX	2.9926E-33	WW domain containing oxidoreductase	2019	2019	0	1	0.8	40		0.44	0.88	1
+0.967741935483871	0	1470	0	RELN	1.0	reelin	2010	2010	0	1	0.8	37		0.47	0.88	0
+0.8918918918918919	0	1	0	CASP3	0.066565	caspase 3	2008	2008	0	1	0.8	39		0.38	0.88	0
+0.8108108108108109	0	0	0	NPY	0.0015886	neuropeptide Y	2001	2001	0	1	0.8	45		0.44	0.92	0
+0.9696969696969697	0	9	0	PPARA	0.0034658	peroxisome proliferator activated receptor alpha			0	0	0.8	45		0.42	0.88	0
+0.8666666666666667	0	3	0	APBB1	0.99999	amyloid beta precursor protein binding family B member 1			0	0	0.8	5		0.71	0.46	0
+0.9285714285714286	0	40	0	IL6R	6.7914E-8	interleukin 6 receptor			0	0	0.8	32		0.38	0.92	1
+1.0	0	241	0	TAP2	2.132E-11	transporter 2, ATP binding cassette subfamily B member			0	0	0.8	23		0.45	0.88	0
+0.8421052631578947	0	3	0	APOA4	5.7529E-7	apolipoprotein A4			0	0	0.8	11		0.52	0.88	0
+0.84	0	247	0	FAS	0.99961	Fas cell surface death receptor			0	0	0.8	69		0.36	0.88	0
+0.9565217391304348	0	158	0	CYP19A1	0.015987	cytochrome P450 family 19 subfamily A member 1			0	0	0.8	42		0.44	0.88	0
+1.0	0	63	0	AGTR1	7.1609E-5	angiotensin II receptor type 1			0	0	0.8	41		0.43	0.92	0
+0.9807692307692307	0	14	0	FYN	1.0	FYN proto-oncogene, Src family tyrosine kinase			0	0	0.8	14		0.47	0.88	0
+0.6666666666666666	1	2	0	ADRA1A	3.5799E-11	adrenoceptor alpha 1A			0	0	0.8	16		0.57	0.71	0
+0.927710843373494	0	1	0	NGFR	3.7444E-9	nerve growth factor receptor			0	0	0.8	9		0.44	0.92	0
+0.9375	0	546	0	NTRK1	1.0907E-16	neurotrophic receptor tyrosine kinase 1			0	0	0.8	32		0.42	0.92	0
+0.9761904761904762	0	319	0	STAT3	1.0	signal transducer and activator of transcription 3			0	0	0.8	98		0.32	0.88	0
+0.9444444444444444	0	13	0	NOS1	1.0	nitric oxide synthase 1			0	0	0.8	31		0.46	0.83	0
+1.0	0	8	0	SERPINE2	0.4555	serpin family E member 2			0	0	0.8	2		0.47	0.83	0
+0.7368421052631579	0	5	0	PON1	8.2563E-12	paraoxonase 1			0	0	0.8	93		0.42	0.92	0
+0.8936170212765957	0	511	0	GRIN2B	1.0	glutamate ionotropic receptor NMDA type subunit 2B			0	0	0.8	52		0.48	0.88	0
+0.9090909090909091	0	3	0	GSTP1	7.9827E-8	glutathione S-transferase pi 1			0	0	0.8	130		0.41	0.92	0
+0.8571428571428571	0	256	0	LPL	3.0524E-12	lipoprotein lipase			0	0	0.8	39		0.47	0.83	0
+1.0	0	8	0	PARP1	0.99939	poly(ADP-ribose) polymerase 1			0	0	0.8	57		0.39	0.88	0
+0.7894736842105263	0	133	0	GLUL	0.9997	glutamate-ammonia ligase			0	0	0.8	20		0.48	0.88	0
+0.9310344827586207	0	6	0	HSPA1A	0.27696	heat shock protein family A (Hsp70) member 1A			0	0	0.8	36		0.4	0.88	0
+0.9032258064516129	0	1	0	MT3	0.005677	metallothionein 3			0	0	0.8	7		0.59	0.83	0
+0.9180327868852459	0	51	0	NTRK2	1.0	neurotrophic receptor tyrosine kinase 2			0	0	0.8	46		0.42	0.92	0
+0.6470588235294118	0	132	0	VLDLR	5.7808E-18	very low density lipoprotein receptor			0	0	0.8	15		0.55	0.79	0
+0.8536585365853658	0	363	0	CHAT	9.5799E-17	choline O-acetyltransferase			0	0	0.8	34		0.53	0.88	0
+0.821917808219178	0	283	0	CTSD	1.4562E-6	cathepsin D			0	0	0.8	24		0.45	0.88	0
+1.0	0	3	0	RCAN1	0.015233	regulator of calcineurin 1			0	0	0.8	7		0.56	0.79	0
+0.9411764705882353	0	0	0	GAPDH	0.18849	glyceraldehyde-3-phosphate dehydrogenase			0	0	0.8	17		0.46	0.88	0
+0.95	0	1	0	KLK6	1.9033E-4	kallikrein related peptidase 6			0	0	0.8	6		0.53	0.83	0
+1.0	0	1	0	MIR146A		microRNA 146a	2011	2015	0	2	0.75	14		0.4	0.88	0
+1.0	0	13	0	DPYSL2	1.0	dihydropyrimidinase like 2	2009	2009	0	1	0.75	11		0.55	0.83	0
+0.9375	0	5	0	VSNL1	0.91699	visinin like 1	2015	2015	0	1	0.75	2		0.6	0.75	1
+1.0	0	22	0	TSPAN14		tetraspanin 14	2021	2021	0	1	0.75	1		0.71	0.5	2
+0.967741935483871	0	77	0	DHCR24	0.047357	24-dehydrocholesterol reductase	2013	2013	0	1	0.75	8		0.52	0.83	0
+1.0	0	1	0	ARC	8.1263E-4	activity regulated cytoskeleton associated protein	2009	2009	0	1	0.75	5		0.58	0.79	0
+0.7954545454545454	0	346	0	MTHFR	1.0185E-11	methylenetetrahydrofolate reductase	2007	2007	0	1	0.75	233		0.36	0.88	0
+0.9583333333333334	0	1	0	MIR124-3		microRNA 124-3	2017	2017	0	1	0.75	3		0.46	0.88	0
+0.8421052631578947	0	16	0	HMGCR	0.99941	3-hydroxy-3-methylglutaryl-CoA reductase			0	0	0.75	33		0.47	0.88	0
+1.0	0	10	0	LRPAP1	2.8912E-15	LDL receptor related protein associated protein 1			0	0	0.75	8		0.59	0.83	0
+1.0	1	77	0	MBL2	0.027157	mannose binding lectin 2			0	0	0.75	84		0.4	0.88	0
+1.0	0	9	0	EPO	0.02674	erythropoietin			0	0	0.75	78		0.39	0.88	0
+0.9629629629629629	0	10	0	ALDH2	5.8061E-11	aldehyde dehydrogenase 2 family member			0	0	0.75	52		0.43	0.88	0
+1.0	0	2	0	CASS4	0.88005	Cas scaffold protein family member 4	2018	2021	0	2	0.7	1		0.78	0.33	2
+0.8	0	0	0	ENO1	9.131E-8	enolase 1	2009	2009	0	1	0.7	23		0.48	0.88	0
+1.0	0	18	0	DLST	0.98877	dihydrolipoamide S-succinyltransferase			0	0	0.7	7		0.62	0.75	0
+0.625	0	13	0	CLOCK	0.9672	clock circadian regulator			0	0	0.7	15		0.5	0.83	0
+1.0	0	2	0	PON3	1.1102E-12	paraoxonase 3			0	0	0.7	4		0.58	0.75	0
+1.0	0	10	0	UQCRC1	2.7422E-6	ubiquinol-cytochrome c reductase core protein 1			0	0	0.7	3		0.62	0.75	0
+1.0	0	0	0	CDK5R1	0.99973	cyclin dependent kinase 5 regulatory subunit 1			0	0	0.7	6		0.66	0.63	0
+1.0	0	278	0	ND2		NADH dehydrogenase subunit 2			0	0	0.7	30		0.55	0.75	1
+0.8	0	7	0	ECE2	2.3369E-22	endothelin converting enzyme 2	2003	2020	0	2	0.65	1		0.75	0.38	0
+0.75	0	4	0	PCDH11X		protocadherin 11 X-linked	2009	2009	0	1	0.65	2		0.64	0.75	1
+0.6666666666666666	0	326	0	TPP1	1.508E-8	tripeptidyl peptidase 1	1999	1999	0	1	0.65	15		0.55	0.79	0
+1.0	0	4	0	ADAMTS1	1.0	ADAM metallopeptidase with thrombospondin type 1 motif 1	2019	2019	0	1	0.65	7		0.5	0.83	0
+1.0	0	6	0	SLC2A4	7.8878E-6	solute carrier family 2 member 4	2014	2014	0	1	0.65	4		0.54	0.75	0
+1.0	0	23	0	IGF2R	1.0	insulin like growth factor 2 receptor	2005	2005	0	1	0.65	23		0.5	0.88	0
+1.0	0	11	0	ATP5F1A	0.28054	ATP synthase F1 subunit alpha	2009	2009	0	1	0.65	8		0.54	0.79	0
+1.0	0	20	0	CALM1	0.99098	calmodulin 1	2001	2001	0	1	0.65	15		0.55	0.88	0
+1.0	0	10	0	AMFR	6.0428E-4	autocrine motility factor receptor	2012	2012	0	1	0.65	6		0.56	0.79	0
+0.75	0	6	0	TPH1	1.6579E-8	tryptophan hydroxylase 1			0	0	0.65	20		0.52	0.79	0
+1.0	0	839	0	WT1	1.0	WT1 transcription factor			0	0	0.65	61		0.38	0.79	0
+0.5555555555555556	0	4	0	GSTO1	1.303E-5	glutathione S-transferase omega 1			0	0	0.65	13		0.55	0.75	0
+0.7142857142857143	0	4	0	PON2	2.3818E-7	paraoxonase 2			0	0	0.65	13		0.55	0.83	0
+0.8333333333333334	0	4	0	HSPA1B	0.0074976	heat shock protein family A (Hsp70) member 1B			0	0	0.65	26		0.45	0.88	0
+1.0	0	10	0	MCM2	4.5576E-8	minichromosome maintenance complex component 2			0	0	0.65	7		0.5	0.79	0
+0.6666666666666666	0	1	0	GSTM3	1.2366E-6	glutathione S-transferase mu 3			0	0	0.65	23		0.54	0.88	0
+0.3333333333333333	0	105	0	LIPC	1.2162E-10	lipase C, hepatic type			0	0	0.65	22		0.53	0.75	0
+0.75	0	0	0	GSTT1		glutathione S-transferase theta 1			0	0	0.65	151		0.42	0.88	0
+1.0	0	84	0	IREB2	0.99998	iron responsive element binding protein 2			0	0	0.65	4		0.57	0.75	0
+1.0	0	17	0	PPP2R2B	1.0	protein phosphatase 2 regulatory subunit Bbeta			0	0	0.65	8		0.56	0.79	0
+1.0	0	13	0	PPP3R1	0.71227	protein phosphatase 3 regulatory subunit B, alpha			0	0	0.65	5		0.65	0.63	0
+0.625	0	92	0	C2	2.3485E-16	complement C2			0	0	0.65	14		0.44	0.83	0
+1.0	0	4	0	CASP7	6.3709E-6	caspase 7			0	0	0.65	8		0.57	0.79	0
+1.0	0	323	0	ABAT	1.1435E-10	4-aminobutyrate aminotransferase			0	0	0.65	11		0.59	0.83	0
+1.0	0	0	0	NEFM	0.85863	neurofilament medium chain			0	0	0.65	6		0.61	0.75	0
+1.0	0	64	0	PCK1	6.2994E-13	phosphoenolpyruvate carboxykinase 1			0	0	0.65	11		0.53	0.83	0
+1.0	0	4	0	PGRMC1		progesterone receptor membrane component 1	2014	2014	0	1	0.6	5		0.57	0.79	0
+1.0	0	256	0	CHRNB2	1.6546E-9	cholinergic receptor nicotinic beta 2 subunit	2007	2007	0	1	0.6	24		0.6	0.54	0
+1.0	0	39	0	SLC30A6	8.3119E-7	solute carrier family 30 member 6	2006	2006	0	1	0.6	1		0.72	0.46	0
+1.0	0	0	0	SLC30A4	0.65428	solute carrier family 30 member 4	2006	2006	0	1	0.6	2		0.71	0.67	0
+0.75	0	0	0	MIR375		microRNA 375	2015	2015	0	1	0.6	4		0.49	0.83	0
+1.0	0	50	0	TPI1	0.87357	triosephosphate isomerase 1	2009	2009	0	1	0.6	19		0.54	0.83	0
+1.0	0	1	0	MIR100		microRNA 100	2015	2015	0	1	0.6	9		0.53	0.79	0
+1.0	0	46	0	PNMT	9.0249E-9	phenylethanolamine N-methyltransferase			0	0	0.6	3		0.64	0.75	0
+0.3333333333333333	0	2	0	GSTO2	1.0241E-5	glutathione S-transferase omega 2			0	0	0.6	5		0.6	0.71	0
+0.6666666666666666	0	6	0	GRIN2C	1.1793E-19	glutamate ionotropic receptor NMDA type subunit 2C			0	0	0.6	3		0.62	0.75	0
+1.0	0	5	0	APBB2	0.59906	amyloid beta precursor protein binding family B member 2			0	0	0.6	3		0.7	0.71	0
+1.0	0	514	0	KCNMA1	1.0	potassium calcium-activated channel subfamily M alpha 1			0	0	0.6	25		0.49	0.88	0
+1.0	0	3	0	ADRB3	2.7754E-16	adrenoceptor beta 3			0	0	0.6	24		0.52	0.79	0
+1.0	0	251	0	PIK3R1	1.0	phosphoinositide-3-kinase regulatory subunit 1			0	0	0.6	34		0.45	0.88	0
+1.0	0	19	0	UNC13C	2.2317E-34	unc-13 homolog C	1993	2020	0	6	0.55	6		0.67	0.63	1
+1.0	0	190	0	ND1		NADH dehydrogenase subunit 1	1993	2020	0	6	0.55	66		0.49	0.79	1
+1.0	0	5	0	GAPDHS	3.3358E-10	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic	2007	2007	0	1	0.55	2		0.77	0.46	0
+1.0	0	13	0	IQCK		IQ motif containing K	2019	2019	0	1	0.55	1		0.74	0.42	1
+1.0	0	20	0	NCK2	0.022794	NCK adaptor protein 2	2021	2021	0	1	0.55	4		0.63	0.79	1
+1.0	0	12	0	CCDC6	0.88994	coiled-coil domain containing 6	2021	2021	0	1	0.5	3		0.57	0.63	0
+1.0	0	123	0	PYY	2.0343E-5	peptide YY	2001	2001	0	1	0.5	10		0.52	0.79	0
+1.0	0	0	0	APP-DT		APP divergent transcript	1993	2020	0	5	0.45	1		0.83	0.13	0
+1.0	0	35	0	SPRED2	1.5939E-15	sprouty related EVH1 domain containing 2	2021	2021	0	1	0.45	6		0.55	0.83	2
+1.0	0	236	0	NCF2	7.901E-10	neutrophil cytosolic factor 2			0	0	0.45	4		0.54	0.75	0
+1.0	0	118	0	GSS	1.7585E-6	glutathione synthetase			0	0	0.45	11		0.62	0.79	0
+1.0	0	12	0	XRN1	1.0	5'-3' exoribonuclease 1			0	0	0.45	2		0.68	0.63	0
+1.0	0	0	0	LOC126653330		CDK7 strongly-dependent group 2 enhancer GRCh37_chr21:27326978-27328177	1993	2020	0	7	0.4	2		0.94	0.08	0
+1.0	0	78	0	HFE-AS1		HFE antisense RNA 1	1993	2020	0	5	0.4	11		0.8	0.38	2
+1.0	0	2	0	MIR296		microRNA 296	2015	2015	0	1	0.4	2		0.61	0.71	0
+1.0	0	1	0	MIR708		microRNA 708	2015	2015	0	1	0.4	2		0.72	0.5	0
