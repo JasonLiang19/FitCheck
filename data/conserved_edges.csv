@@ -1,0 +1,1742 @@
+disease,species,module_id,human_edge,target_edge
+AD,mouse,0,CPEB1 - APP,Cpeb1-App
+AD,mouse,2,APBB1 - APLP2,Apbb1-Aplp2
+AD,mouse,2,APBB1 - Rnf157,Apbb1-Rnf157
+AD,mouse,2,GSTP1 - MAPK8,Gstp2-Mapk8
+AD,mouse,2,GSTP1 - FANCC,Gstp1-Fancc
+AD,mouse,2,GSTP1 - PRDX6,Gstp1-Prdx6
+AD,mouse,2,AP2B1 - PICALM,Ap2b1-Picalm
+AD,mouse,2,CLTC - PICALM,Cltc-Picalm
+AD,mouse,2,MAPK8 - APBB2,Mapk8-Apbb2
+AD,mouse,2,MAPK8 - WWOX,Mapk8-Wwox
+AD,mouse,2,PRDX6 - NCF2,Prdx6-Ncf2
+AD,mouse,2,MAPK8IP2 - LRP8,Mapk8ip2-Lrp8
+AD,mouse,2,LRP8 - MAPK8IP1,Lrp8-Mapk8ip1
+AD,mouse,2,UCHL5 - CTSD,Uchl5-Ctsd
+AD,mouse,2,POR - PGRMC1,Por-Pgrmc1
+AD,mouse,2,CANX - PGRMC1,Canx-Pgrmc1
+AD,mouse,2,ADAM10 - TSPAN15,Adam10-Tspan15
+AD,mouse,2,PGRMC1 - DPP4,Pgrmc1-Dpp4
+AD,mouse,3,DNAJB6 - HSPA1A,Dnajb6-Hspa1b
+AD,mouse,3,DNAJA4 - HSPA1A,Dnaja4-Hspa1a
+AD,mouse,3,DNAJB4 - HSPA1A,Dnajb4-Hspa1a
+AD,mouse,4,DPYSL2 - CRMP1,Dpysl2-Crmp1
+AD,mouse,4,DPYSL2 - DPYSL3,Dpysl2-Dpysl3
+AD,mouse,4,DPYSL2 - DPYSL5,Dpysl2-Dpysl5
+AD,mouse,4,DPYSL2 - NUMB,Dpysl2-Numb
+AD,mouse,4,DPYSL2 - PRDX2,Dpysl2-Prdx2
+AD,mouse,4,MTM1 - BIN1,Mtm1-Bin1
+AD,mouse,4,SLC6A3 - SNCA,Slc6a3-Snca
+AD,mouse,4,ARSA - SNCA,Arsa-Snca
+AD,mouse,4,Ndufb6 - SNCA,Ndufb6-Snca
+AD,mouse,4,ITCH - BIN1,Itch-Bin1
+AD,mouse,4,BDH2 - SNCA,Bdh2-Snca
+AD,mouse,4,GSTO1 - BAG3,Gsto1-Bag3
+AD,mouse,4,POLR2M - BIN1,Polr2m-Bin1
+AD,mouse,4,E2F1 - BIN1,E2f1-Bin1
+AD,mouse,4,ATAD1 - SNCA,Atad1-Snca
+AD,mouse,4,VAMP2 - SNCA,Vamp2-Snca
+AD,mouse,4,RIN3 - BIN1,Rin3-Bin1
+AD,mouse,4,CLIP1 - BIN1,Clip1-Bin1
+AD,mouse,4,SNX4 - BIN1,Snx4-Bin1
+AD,mouse,4,SNCA - SNCB,Snca-Sncb
+AD,mouse,4,SNCA - SYN1,Snca-Syn1
+AD,mouse,4,SNCA - SNCA,Snca-Snca
+AD,mouse,4,AMPH - BIN1,Amph-Bin1
+AD,mouse,4,NBR1 - SPRED2,Nbr1-Spred2
+AD,mouse,4,BIN1 - CHMP4B,Bin1-Chmp4b
+AD,mouse,4,BIN1 - EHBP1L1,Bin1-Ehbp1l1
+AD,mouse,4,MT3 - ACTB,Mt3-Actb
+AD,mouse,5,KANK2 - ABI3,Kank2-Abi3
+AD,mouse,5,EFNB1 - NCK2,Efnb1-Nck2
+AD,mouse,5,ABI1 - NCK2,Abi1-Nck2
+AD,mouse,5,EIF3H - ABI3,Eif3h-Abi3
+AD,mouse,5,HNRNPK - NCK2,Hnrnpk-Nck2
+AD,mouse,6,L1CAM - PRNP,L1cam-Prnp
+AD,mouse,6,NPTN - PRNP,Nptn-Prnp
+AD,mouse,6,MAG - PRNP,Mag-Prnp
+AD,mouse,6,CALM1 - KCNQ2,Calm1-Kcnq2
+AD,mouse,6,ATP1B1 - PRNP,Atp1b1-Prnp
+AD,mouse,6,ATP1A3 - PRNP,Atp1a3-Prnp
+AD,mouse,6,PRNP - GPM6A,Prnp-Gpm6a
+AD,mouse,7,CKB - MAPT,Ckb-Mapt
+AD,mouse,7,CLOCK - CRY2,Clock-Cry2
+AD,mouse,7,KIF5A - KLC1,Kif5a-Klc1
+AD,mouse,7,YWHAB - MAPT,Ywhab-Mapt
+AD,mouse,7,YWHAB - CCDC6,Ywhab-Ccdc6
+AD,mouse,7,Suds3 - CDK5R1,Suds3-Cdk5r1
+AD,mouse,7,PPP1CC - MAPT,Ppp1cc-Mapt
+AD,mouse,7,PPP1CA - MAPT,Ppp1ca-Mapt
+AD,mouse,7,CDK5R1 - CDK5,Cdk5r1-Cdk5
+AD,mouse,7,CCDC6 - PPP2R1A,Ccdc6-Ppp2r1a
+AD,mouse,7,CCDC6 - PPP4C,Ccdc6-Ppp4c
+AD,mouse,7,MAPK8IP3 - KLC1,Mapk8ip3-Klc1
+AD,mouse,7,NDEL1 - CDK5,Ndel1-Cdk5
+AD,mouse,7,NUB1 - MAPT,Nub1-Mapt
+AD,mouse,7,RPS14 - MAPT,Rps14-Mapt
+AD,mouse,7,PPIB - MAPT,Ppib-Mapt
+AD,mouse,7,CDK5 - MAPT,Cdk5-Mapt
+AD,mouse,7,CDK5 - CABLES2,Cdk5-Cables2
+AD,mouse,7,CDK5 - CCT3,Cdk5-Cct3
+AD,mouse,7,CDK5 - CDKN1B,Cdk5-Cdkn1b
+AD,mouse,7,CDK5 - FIBP,Cdk5-Fibp
+AD,mouse,7,CDK5 - LRRK2,Cdk5-Lrrk2
+AD,mouse,7,TRIM11 - MAPT,Trim11-Mapt
+AD,mouse,7,UBA1 - MAPT,Uba1-Mapt
+AD,mouse,7,PPP2R1A - MAPT,Ppp2r1a-Mapt
+AD,mouse,7,PACSIN1 - MAPT,Pacsin1-Mapt
+AD,mouse,7,CLSTN1 - KLC1,Clstn1-Klc1
+AD,mouse,7,YWHAE - MAPT,Ywhae-Mapt
+AD,mouse,7,NAPB - MAPT,Napb-Mapt
+AD,mouse,7,BAG1 - MAPT,Bag1-Mapt
+AD,mouse,7,ARF4 - MAPT,Arf4-Mapt
+AD,mouse,7,TIA1 - MAPT,Tia1-Mapt
+AD,mouse,7,PPP2CA - MAPT,Ppp2ca-Mapt
+AD,mouse,7,MAPT - LRRK2,Mapt-Lrrk2
+AD,mouse,7,MAPT - OXCT1,Mapt-Oxct1
+AD,mouse,7,MAPT - SLC1A2,Mapt-Slc1a2
+AD,mouse,7,MAPT - USP5,Mapt-Usp5
+AD,mouse,7,MAPT - YWHAG,Mapt-Ywhag
+AD,mouse,7,MAPT - YWHAH,Mapt-Ywhah
+AD,mouse,7,MAPT - YWHAZ,Mapt-Ywhaz
+AD,mouse,8,PPM1B - PPARG,Ppm1b-Pparg
+AD,mouse,8,POU4F1 - ESR1,Pou4f1-Esr1
+AD,mouse,8,MED14 - PPARG,Med14-Pparg
+AD,mouse,8,GRIP1 - ESR1,Grip1-Esr1
+AD,mouse,8,ESR2 - NCOA6,Esr2-Ncoa6
+AD,mouse,8,ESR2 - RBM39,Esr2-Rbm39
+AD,mouse,8,NR1H2 - NPY,Nr1h2-Npy
+AD,mouse,8,SP1 - PPARG,Sp1-Pparg
+AD,mouse,8,EIF2AK2 - ADAR,Eif2ak2-Adar
+AD,mouse,8,STAT5A - ESR1,Stat5a-Esr1
+AD,mouse,8,POU4F2 - ESR1,Pou4f2-Esr1
+AD,mouse,8,SIRT1 - PPARA,Sirt1-Ppara
+AD,mouse,8,SIRT1 - PPARG,Sirt1-Pparg
+AD,mouse,8,PGR - ESR1,Pgr-Esr1
+AD,mouse,8,NCOA1 - PPARG,Ncoa1-Pparg
+AD,mouse,8,NCOR2 - PPARG,Ncor2-Pparg
+AD,mouse,8,HDAC3 - PPARG,Hdac3-Pparg
+AD,mouse,8,KDM4B - ESR1,Kdm4b-Esr1
+AD,mouse,8,NCOA6 - ESR1,Ncoa6-Esr1
+AD,mouse,8,NCOA6 - PPARG,Ncoa6-Pparg
+AD,mouse,8,ESR1 - NCOA2,Esr1-Ncoa2
+AD,mouse,8,MED1 - PPARG,Med1-Pparg
+AD,mouse,8,PPARA - NCOR1,Ppara-Ncor1
+AD,mouse,8,NCOR1 - PPARG,Ncor1-Pparg
+AD,mouse,8,PPARG - NCOA2,Pparg-Ncoa2
+AD,mouse,9,DAXX - FAS,Daxx-Fas
+AD,mouse,9,DAXX - SLC2A4,Daxx-Slc2a4
+AD,mouse,9,FASLG - FAS,Fasl-Fas
+AD,mouse,9,LRP1 - GIPC1,Lrp1-Gipc1
+AD,mouse,9,FAS - FADD,Fas-Fadd
+AD,mouse,10,FANCD2 - MCM2,Fancd2-Mcm2
+AD,mouse,10,MAPK7 - NFE2L2,Mapk7-Nfe2l2
+AD,mouse,10,NFE2L2 - CERS2,Nfe2l2-Cers2
+AD,mouse,10,NFE2L2 - CREBBP,Nfe2l2-Crebbp
+AD,mouse,10,NFE2L2 - MAFG,Nfe2l2-Mafg
+AD,mouse,10,NFE2L2 - MAFK,Nfe2l2-Mafk
+AD,mouse,10,NFE2L2 - SYVN1,Nfe2l2-Syvn1
+AD,mouse,10,EIF2S2 - EIF2S1,Eif2s2-Eif2s1
+AD,mouse,10,EIF2S1 - RPA1,Eif2s1-Rpa1
+AD,mouse,10,TOP1 - PARP1,Top1-Parp1
+AD,mouse,10,TIMELESS - MCM2,Timeless-Mcm2
+AD,mouse,10,TOP2A - PARP1,Top2a-Parp1
+AD,mouse,10,MCM2 - ATRX,Mcm2-Atrx
+AD,mouse,10,MCM2 - CHEK1,Mcm2-Chek1
+AD,mouse,10,MCM2 - GINS4,Mcm2-Gins4
+AD,mouse,10,MCM2 - MCM3,Mcm2-Mcm3
+AD,mouse,10,MCM2 - MCMBP,Mcm2-Mcmbp
+AD,mouse,11,CASP1 - IL1B,Casp1-Il1b
+AD,mouse,11,VEGFA - CRYAB,Vegfa-Cryab
+AD,mouse,11,VEGFA - KDR,Vegfa-Kdr
+AD,mouse,11,BID - CASP3,Bid-Casp3
+AD,mouse,11,DFFA - CASP3,Dffa-Casp3
+AD,mouse,11,RIPK1 - TNF,Ripk1-Tnf
+AD,mouse,11,PTGES3 - CASP7,Ptges3-Casp7
+AD,mouse,11,TBK1 - TNF,Tbk1-Tnf
+AD,mouse,11,SHARPIN - TNF,Sharpin-Tnf
+AD,mouse,11,TNFRSF1A - TNF,Tnfrsf1a-Tnf
+AD,mouse,11,IL1B - CASP8,Il1b-Casp8
+AD,mouse,11,CASP3 - BIRC3,Casp3-Birc3
+AD,mouse,11,CASP3 - CRYAB,Casp3-Cryab
+AD,mouse,11,TNF - IKBKE,Tnf-Ikbke
+AD,mouse,11,TNF - RNF31,Tnf-Rnf31
+AD,mouse,11,TNF - TNIP1,Tnf-Tnip1
+AD,mouse,12,S100A6 - S100B,S100a6-S100b
+AD,mouse,12,S100B - S100A1,S100b-S100a1
+AD,mouse,13,HNRNPH2 - VCP,Hnrnph2-Vcp
+AD,mouse,13,PSMD13 - VCP,Psmd13-Vcp
+AD,mouse,13,UBXN2B - VCP,Ubxn2b-Vcp
+AD,mouse,13,UBXN7 - VCP,Ubxn7-Vcp
+AD,mouse,13,UBAC2 - AMFR,Ubac2-Amfr
+AD,mouse,13,RAB11B - VCP,Rab11b-Vcp
+AD,mouse,13,ATG16L1 - VCP,Atg16l1-Vcp
+AD,mouse,13,VCP - AMFR,Vcp-Amfr
+AD,mouse,13,VCP - ASPSCR1,Vcp-Aspscr1
+AD,mouse,13,VCP - DERL2,Vcp-Derl2
+AD,mouse,13,VCP - HDLBP,Vcp-Hdlbp
+AD,mouse,13,VCP - HTT,Vcp-Htt
+AD,mouse,13,VCP - NGLY1,Vcp-Ngly1
+AD,mouse,13,VCP - NPLOC4,Vcp-Nploc4
+AD,mouse,13,VCP - PLAA,Vcp-Plaa
+AD,mouse,13,VCP - PSMA1,Vcp-Psma1
+AD,mouse,13,VCP - PSMA2,Vcp-Psma2
+AD,mouse,13,VCP - PSMA6,Vcp-Psma6
+AD,mouse,13,VCP - PSMB6,Vcp-Psmb6
+AD,mouse,13,VCP - PSMC4,Vcp-Psmc4
+AD,mouse,13,VCP - PSMD12,Vcp-Psmd12
+AD,mouse,13,VCP - PSMD4,Vcp-Psmd4
+AD,mouse,13,VCP - RNF19A,Vcp-Rnf19a
+AD,mouse,13,VCP - SVIP,Vcp-Svip
+AD,mouse,13,VCP - UBE4B,Vcp-Ube4b
+AD,mouse,13,VCP - UBOX5,Vcp-Ubox5
+AD,mouse,13,VCP - UBXN1,Vcp-Ubxn1
+AD,mouse,13,VCP - UBXN2A,Vcp-Ubxn2a
+AD,mouse,13,VCP - VCPIP1,Vcp-Vcpip1
+AD,mouse,13,VCP - ZFAND2B,Vcp-Zfand2b
+AD,mouse,13,UBE2G2 - AMFR,Ube2g2-Amfr
+AD,mouse,13,GET4 - AMFR,Get4-Amfr
+AD,mouse,13,MGRN1 - AMFR,Mgrn1-Amfr
+AD,mouse,13,TAB3 - AMFR,Tab3-Amfr
+AD,mouse,14,CSF1R - PIK3R1,Csf1r-Pik3r1
+AD,mouse,14,CSF1R - FYN,Csf1r-Fyn
+AD,mouse,14,CSF1R - SOS1,Csf1r-Sos1
+AD,mouse,14,CSF1R - CBL,Csf1r-Cbl
+AD,mouse,14,CSF1R - GRB2,Csf1r-Grb2
+AD,mouse,14,CSF1R - SOCS1,Csf1r-Socs1
+AD,mouse,14,GRIN1 - GRIN2B,Grin1-Grin2b
+AD,mouse,14,GRIN2A - GRIN2B,Grin2a-Grin2b
+AD,mouse,14,GRIN2A - FYN,Grin2a-Fyn
+AD,mouse,14,SH3KBP1 - PIK3R1,Sh3kbp1-Pik3r1
+AD,mouse,14,SH3KBP1 - CD2AP,Sh3kbp1-Cd2ap
+AD,mouse,14,SH3KBP1 - INPP5D,Sh3kbp1-Inpp5d
+AD,mouse,14,GAB1 - PIK3R1,Gab1-Pik3r1
+AD,mouse,14,ARC - RNF216,Arc-Rnf216
+AD,mouse,14,DLG3 - GRIN2B,Dlg3-Grin2b
+AD,mouse,14,INPP5D - SHC1,Inpp5d-Shc1
+AD,mouse,14,INPP5D - CRKL,Inpp5d-Crkl
+AD,mouse,14,INPP5D - DOK1,Inpp5d-Dok1
+AD,mouse,14,INPP5D - DOK2,Inpp5d-Dok2
+AD,mouse,14,INPP5D - FCGR2B,Inpp5d-Fcgr2b
+AD,mouse,14,INPP5D - PECAM1,Inpp5d-Pecam1
+AD,mouse,14,INPP5D - PTPN11,Inpp5d-Ptpn11
+AD,mouse,14,SRC - ADRB3,Src-Adrb3
+AD,mouse,14,SRC - PTK2B,Src-Ptk2b
+AD,mouse,14,ERBB2 - PIK3R1,Erbb2-Pik3r1
+AD,mouse,14,HTR6 - MTOR,Htr6-Mtor
+AD,mouse,14,HTR6 - NF1,Htr6-Nf1
+AD,mouse,14,SOCS3 - INSR,Socs3-Insr
+AD,mouse,14,PTK2B - PXN,Ptk2b-Pxn
+AD,mouse,14,PTK2B - CBL,Ptk2b-Cbl
+AD,mouse,14,PTK2B - DLG4,Ptk2b-Dlg4
+AD,mouse,14,PTK2B - EWSR1,Ptk2b-Ewsr1
+AD,mouse,14,PTK2B - PITPNM1,Ptk2b-Pitpnm1
+AD,mouse,14,PTK2B - SORBS2,Ptk2b-Sorbs2
+AD,mouse,14,GAB2 - PIK3R1,Gab2-Pik3r1
+AD,mouse,14,TLR4 - TRAF3,Tlr4-Traf3
+AD,mouse,14,TLR4 - MYD88,Tlr4-Myd88
+AD,mouse,14,TLR4 - TICAM1,Tlr4-Ticam1
+AD,mouse,14,TLR4 - TIRAP,Tlr4-Tirap
+AD,mouse,14,TLR4 - TRAF6,Tlr4-Traf6
+AD,mouse,14,LCK - PIK3R1,Lck-Pik3r1
+AD,mouse,14,CRK - PIK3R1,Crk-Pik3r1
+AD,mouse,14,CD2AP - CAPZA1,Cd2ap-Capza1
+AD,mouse,14,CD2AP - CBL,Cd2ap-Cbl
+AD,mouse,14,FBXO2 - BACE1,Fbxo2-Bace1
+AD,mouse,14,IRS1 - PIK3R1,Irs1-Pik3r1
+AD,mouse,14,IRS1 - INSR,Irs1-Insr
+AD,mouse,14,IRS1 - IGF1R,Irs1-Igf1r
+AD,mouse,14,IRS1 - PIK3CA,Irs1-Pik3ca
+AD,mouse,14,IRS1 - RAD51,Irs1-Rad51
+AD,mouse,14,IRS1 - RPS6KB1,Irs1-Rps6kb1
+AD,mouse,14,HSPA1B - BAG4,Hspa1b-Bag4; Hspa1a-Bag4
+AD,mouse,14,HSPA1B - HSPA2,Hspa1a-Hspa2
+AD,mouse,14,HSPA1B - STUB1,Hspa1b-Stub1
+AD,mouse,14,HSPA1B - UBQLN2,Hspa1b-Ubqln2
+AD,mouse,14,PLCG1 - NTRK1,Plcg1-Ntrk1
+AD,mouse,14,PLCG1 - NTRK2,Plcg1-Ntrk2
+AD,mouse,14,BDNF - NTRK2,Bdnf-Ntrk2
+AD,mouse,14,SHC1 - PIK3R1,Shc1-Pik3r1
+AD,mouse,14,SHC1 - NTRK1,Shc1-Ntrk1
+AD,mouse,14,SHC1 - NTRK2,Shc1-Ntrk2
+AD,mouse,14,JAK2 - PIK3R1,Jak2-Pik3r1
+AD,mouse,14,SALL2 - NGFR,Sall2-Ngfr
+AD,mouse,14,MAGED1 - NGFR,Maged1-Ngfr
+AD,mouse,14,PTPN11 - PIK3R1,Ptpn11-Pik3r1
+AD,mouse,14,GRB2 - PIK3R1,Grb2-Pik3r1
+AD,mouse,14,PTK2 - FYN,Ptk2-Fyn
+AD,mouse,14,ARHGAP32 - GRIN2B,Arhgap32-Grin2b
+AD,mouse,14,CD40 - PIK3R1,Cd40-Pik3r1
+AD,mouse,14,ACTN2 - GRIN2B,Actn2-Grin2b
+AD,mouse,14,KIT - PIK3R1,Kit-Pik3r1
+AD,mouse,14,DLG2 - GRIN2B,Dlg2-Grin2b
+AD,mouse,14,NTRK1 - NGFR,Ntrk1-Ngfr
+AD,mouse,14,NTRK1 - SHC3,Ntrk1-Shc3
+AD,mouse,14,NTRK1 - TRAF6,Ntrk1-Traf6
+AD,mouse,14,IRS2 - PIK3R1,Irs2-Pik3r1
+AD,mouse,14,PIK3CB - PIK3R1,Pik3cb-Pik3r1
+AD,mouse,14,MET - GRIN2B,Met-Grin2b
+AD,mouse,14,INSR - PIK3R1,Insr-Pik3r1
+AD,mouse,14,INSR - GRB10,Insr-Grb10
+AD,mouse,14,INSR - IGF1R,Insr-Igf1r
+AD,mouse,14,INSR - INSRR,Insr-Insrr
+AD,mouse,14,INSR - SH2B2,Insr-Sh2b2
+AD,mouse,14,INSR - SOCS1,Insr-Socs1
+AD,mouse,14,NTRK2 - PIK3R1,Ntrk2-Pik3r1
+AD,mouse,14,NTRK2 - SHC3,Ntrk2-Shc3
+AD,mouse,14,CAMK2A - GRIN2B,Camk2a-Grin2b
+AD,mouse,14,CBL - PIK3R1,Cbl-Pik3r1
+AD,mouse,14,CBL - FYN,Cbl-Fyn
+AD,mouse,14,AXL - PIK3R1,Axl-Pik3r1
+AD,mouse,14,GRIN2B - DLG4,Grin2b-Dlg4
+AD,mouse,14,GRIN2B - FYN,Grin2b-Fyn
+AD,mouse,14,GRIN2B - KCTD13,Grin2b-Kctd13
+AD,mouse,14,PIK3CA - PIK3R1,Pik3ca-Pik3r1
+AD,mouse,14,DLG4 - GRIN2C,Dlg4-Grin2c
+AD,mouse,14,TRIM47 - ADAM17,Trim47-Adam17
+AD,mouse,14,IGF1R - GRB10,Igf1r-Grb10
+AD,mouse,14,CD36 - FYN,Cd36-Fyn
+AD,mouse,14,PIK3R1 - CD19,Pik3r1-Cd19
+AD,mouse,14,PIK3R1 - CRKL,Pik3r1-Crkl
+AD,mouse,14,PIK3R1 - DOK1,Pik3r1-Dok1
+AD,mouse,14,PIK3R1 - FYN,Pik3r1-Fyn
+AD,mouse,14,PIK3R1 - NYAP2,Pik3r1-Nyap2
+AD,mouse,14,NGF - NGFR,Ngf-Ngfr
+AD,mouse,14,BCAR1 - FYN,Bcar1-Fyn
+AD,mouse,14,KHDRBS1 - FYN,Khdrbs1-Fyn
+AD,mouse,14,NGFR - TRAF6,Ngfr-Traf6
+AD,mouse,15,CLASP2 - GSK3B,Clasp2-Gsk3b
+AD,mouse,15,AXIN1 - GSK3B,Axin1-Gsk3b
+AD,mouse,15,PPP3CA - RCAN1,Ppp3ca-Rcan1
+AD,mouse,15,PPP3CA - PPP3R1,Ppp3ca-Ppp3r1
+AD,mouse,15,GSKIP - GSK3B,Gskip-Gsk3b
+AD,mouse,15,PELI3 - GSK3B,Peli3-Gsk3b
+AD,mouse,15,AXIN2 - GSK3B,Axin2-Gsk3b
+AD,mouse,15,GSK3B - DNM1L,Gsk3b-Dnm1l
+AD,mouse,15,GSK3B - GSK3A,Gsk3b-Gsk3a
+AD,mouse,15,GSK3B - KIAA1191,Gsk3b-4833439L19Rik
+AD,mouse,15,GSK3B - PPP1R2,Gsk3b-Ppp1r2
+AD,mouse,15,GSK3B - SNAI1,Gsk3b-Snai1
+AD,mouse,15,PPP3CC - PPP3R1,Ppp3cc-Ppp3r1
+AD,mouse,15,RCAN1 - PPP3CB,Rcan1-Ppp3cb
+AD,mouse,16,OGDH - DLST,Ogdh-Dlst
+AD,mouse,16,DLAT - DLST,Dlat-Dlst
+AD,mouse,16,TTR - RBP4,Ttr-Rbp4
+AD,mouse,16,APOA1 - APOA2,Apoa1-Apoa2
+AD,mouse,16,APOA1 - APOB,Apoa1-Apob
+AD,mouse,16,CS - DLST,Csl-Dlst; Cs-Dlst
+AD,mouse,16,CST3 - CTSB,Cst3-Ctsb
+AD,mouse,16,C3 - CFI,C3-Cfi
+AD,mouse,16,TFAM - GRSF1,Tfam-Grsf1
+AD,mouse,16,TFAM - TFB1M,Tfam-Tfb1m
+AD,mouse,18,CLU - ATP7B,Clu-Atp7b
+AD,mouse,18,CLU - MSRB1,Clu-Msrb1
+AD,mouse,18,CLU - PDIA3,Clu-Pdia3
+AD,mouse,18,IRAK1 - STAT3,Irak1-Stat3
+AD,mouse,18,IL6ST - STAT3,Il6st-Stat3
+AD,mouse,18,NDUFA13 - STAT3,Ndufa13-Stat3
+AD,mouse,18,HES1 - STAT3,Hes1-Stat3
+AD,mouse,19,MYLIP - LDLR,Mylip-Ldlr
+AD,mouse,19,MYLIP - VLDLR,Mylip-Vldlr
+AD,mouse,19,DAB1 - LDLR,Dab1-Ldlr
+AD,mouse,19,DAB1 - VLDLR,Dab1-Vldlr
+AD,mouse,19,RELN - VLDLR,Reln-Vldlr
+AD,mouse,20,NCSTN - APH1A,Ncstn-Aph1a
+AD,mouse,20,NCSTN - PSEN1,Ncstn-Psen1
+AD,mouse,20,NCSTN - PSEN2,Ncstn-Psen2
+AD,mouse,20,PSEN1 - APH1A,Psen1-Aph1a
+AD,mouse,20,PSEN1 - CDH1,Psen1-Cdh1
+AD,mouse,20,PSEN1 - NOTCH1,Psen1-Notch1
+AD,mouse,20,PSEN1 - PSEN2,Psen1-Psen2
+AD,mouse,20,PSEN1 - PSENEN,Psen1-Psenen
+AD,mouse,20,BNIP3 - BCL2,Bnip3-Bcl2
+AD,mouse,20,MCL1 - BAX,Mcl1-Bax
+AD,mouse,20,BAK1 - BAX,Bak1-Bax
+AD,mouse,20,APOE - LONP1,Apoe-Lonp1
+AD,mouse,20,APOE - ST13,Apoe-St13
+AD,mouse,20,APH1A - PSEN2,Aph1a-Psen2
+AD,mouse,20,PSENEN - PSEN2,Psenen-Psen2
+AD,mouse,20,BAD - BCL2,Bad-Bcl2
+AD,mouse,20,RAD9A - BCL2,Rad9a-Bcl2
+AD,mouse,20,CYC1 - UQCRC1,Cyc1-Uqcrc1
+AD,mouse,20,BAX - BCL2,Bax-Bcl2
+AD,mouse,20,BAX - BCL2L1,Bax-Bcl2l1
+AD,mouse,20,UQCRC1 - NDUFS5,Uqcrc1-Ndufs5
+AD,mouse,20,UQCRC1 - NDUFV2,Uqcrc1-Ndufv2
+AD,mouse,20,UQCRC1 - PDHA1,Uqcrc1-Pdha1
+AD,mouse,20,UQCRC1 - UQCRC2,Uqcrc1-Uqcrc2
+AD,mouse,20,UQCRC1 - UQCRH,Uqcrc1-Uqcrh
+AD,mouse,20,BECN1 - BCL2,Becn1-Bcl2
+AD,mouse,21,PAWR - WT1,Pawr-Wt1
+AD,mouse,21,NOS1 - SNTA1,Nos1-Snta1
+AD,mouse,21,UCHL1 - LAMP2,Uchl1-Lamp2
+AD,mouse,21,UCHL1 - TUBA1A,Uchl1-Tuba1a
+AD,mouse,21,UCHL1 - UBB,Uchl1-Ubb
+AD,mouse,21,ENO1 - ENO3,Eno1-Eno3
+AD,mouse,21,PGK1 - TPI1,Pgk1-Tpi1
+AD,mouse,21,UBA52 - TPI1,Uba52-Tpi1
+AD,mouse,21,HNRNPU - GAPDH,Hnrnpu-Gapdh
+AD,mouse,21,TPI1 - GPI,Tpi1-Gpi1
+AD,mouse,21,PABPN1 - GAPDH,Pabpn1-Gapdh
+AD,mouse,21,GAPDH - SIAH1,Gapdh-Siah1a
+AD,mouse,22,IGFBP3 - IGF2,Igfbp3-Igf2
+AD,yeast,2,CLTCL1 - PICALM,CHC1-YAP1801; CHC1-YAP1802
+AD,yeast,2,CLTC - PICALM,CHC1-YAP1801; CHC1-YAP1802
+AD,yeast,2,PGRMC1 - CYP51A1,DAP1-ERG11
+AD,yeast,2,BMP2K - PICALM,PRK1-YAP1801; PRK1-YAP1802; ARK1-YAP1801; ARK1-YAP1802
+AD,yeast,2,PICALM - EPS15,YAP1802-EDE1
+AD,yeast,3,HSPH1 - HSPA1A,SSE2-SSE1; SSE1-SSE2
+AD,yeast,3,PSMD14 - HSPA1A,RPN11-SSE1
+AD,yeast,3,TOMM34 - HSPA1A,STI1-SSE2; STI1-SSE1
+AD,yeast,3,CTPS1 - HSPA1A,URA7-SSE1
+AD,yeast,3,HSPA1L - HSPA1A,LHS1-SSE1; SSE2-SSE1; SSE1-SSE2
+AD,yeast,4,BIN2 - BIN1,PIN3-LSB1; LSB1-PIN3
+AD,yeast,4,NCAPD3 - BIN1,YCS4-RVS167
+AD,yeast,4,AMPH - BIN1,PIN3-LSB1; LSB1-PIN3
+AD,yeast,7,PPP2CB - PPP2R2B,PPH21-CDC55; PPH22-CDC55
+AD,yeast,7,PPP2R2B - CCT3,CDC55-CCT3
+AD,yeast,7,PPP2R2B - CCT4,CDC55-CCT4
+AD,yeast,7,PPP2R2B - CCT5,CDC55-CCT5
+AD,yeast,7,PPP2R2B - PPP2CA,CDC55-PPH21; CDC55-PPH22
+AD,yeast,7,PPP2R2B - PPP2R1A,CDC55-TPD3
+AD,yeast,7,PPP2R2B - PPP2R1B,CDC55-TPD3
+AD,yeast,7,PPP2R2B - TCP1,CDC55-TCP1
+AD,yeast,10,CDC45 - MCM2,CDC45-MCM2
+AD,yeast,10,ORC1 - MCM2,ORC1-MCM2
+AD,yeast,10,ESCO2 - MCM2,ECO1-MCM2
+AD,yeast,10,EIF2S2 - EIF2S1,SUI3-SUI2
+AD,yeast,10,EIF2S1 - EIF2S3,SUI2-GCD11
+AD,yeast,10,CDC7 - MCM2,CDC7-MCM2
+AD,yeast,10,ZFP36 - XRN1,TIS11-XRN1
+AD,yeast,10,TIMELESS - MCM2,TOF1-MCM2
+AD,yeast,10,ORC5 - MCM2,ORC5-MCM2
+AD,yeast,10,MCM4 - MCM2,MCM4-MCM2
+AD,yeast,10,ORC4 - MCM2,ORC4-MCM2
+AD,yeast,10,RPA1 - MCM2,RFA1-MCM2
+AD,yeast,10,MCM2 - DBF4,MCM2-DBF4
+AD,yeast,10,MCM2 - GINS3,MCM2-PSF3
+AD,yeast,10,MCM2 - GINS4,MCM2-SLD5
+AD,yeast,10,MCM2 - MCM3,MCM2-MCM3
+AD,yeast,10,MCM2 - MCM5,MCM2-MCM5
+AD,yeast,10,MCM2 - MCM6,MCM2-MCM6
+AD,yeast,10,MCM2 - MCM7,MCM2-MCM7
+AD,yeast,10,MCM2 - ORC2,MCM2-ORC2
+AD,yeast,10,MCM2 - SIK1,MCM2-KIN2; MCM2-KIN1
+AD,yeast,10,MCM2 - SUPT16H,MCM2-SPT16
+AD,yeast,10,XRN1 - LSM4,XRN1-LSM4
+AD,yeast,10,XRN1 - UPF1,XRN1-NAM7
+AD,yeast,14,HSPA1B - HSPA2,SSE2-SSB2; SSE2-SSB1; SSE1-SSB2; SSE1-SSB1
+AD,yeast,14,HSPA1B - HSPA6,SSE2-SSE1; SSE1-LHS1; SSE1-SSE2
+AD,yeast,14,HSPA1B - HSPBP1,SSE1-FES1
+AD,yeast,15,PPP6R3 - GSK3B,SAP185-MRK1
+AD,yeast,15,GSK3B - PPP6R1,MRK1-SAP185
+AD,yeast,16,OGDH - DLST,KGD1-KGD2
+AD,yeast,16,DLAT - DLST,LAT1-KGD2
+AD,yeast,16,ALDH1B1 - ALDH2,ALD3-ALD2; ALD4-ALD5; ALD2-ALD3; ALD5-ALD4
+AD,yeast,16,ALDH1A2 - ALDH2,ALD3-ALD2; ALD4-ALD5; ALD2-ALD3; ALD5-ALD4
+AD,yeast,16,HSPD1 - ALDH2,HSP60-ALD4
+AD,yeast,16,ALDH1A1 - ALDH2,ALD3-ALD2; ALD4-ALD5; ALD2-ALD3; ALD5-ALD4
+AD,yeast,16,ALDH2 - ALDH6A1,ALD3-ALD2; ALD2-ALD3; ALD5-ALD4
+AD,yeast,20,VDAC1 - TOMM40,POR2-TOM40; POR1-TOM40
+AD,yeast,20,SAMM50 - TOMM40,SAM50-TOM40
+AD,yeast,20,TOMM20 - TOMM40,TOM20-TOM40
+AD,yeast,20,VDAC2 - TOMM40,POR2-TOM40; POR1-TOM40
+AD,yeast,20,PHB2 - TOMM40,PHB2-TOM40
+AD,yeast,20,PHB2 - UQCRC1,PHB2-QCR2
+AD,yeast,20,VDAC3 - TOMM40,POR2-TOM40; POR1-TOM40
+AD,yeast,20,CYC1 - UQCRC1,CYT1-QCR2
+AD,yeast,20,COX4I1 - UQCRC1,COX5B-QCR2; COX5A-QCR2
+AD,yeast,20,UQCRC1 - UQCRB,QCR2-QCR7
+AD,yeast,20,UQCRC1 - UQCRH,QCR2-QCR6
+AD,yeast,20,UQCRC1 - UQCRQ,QCR2-QCR8
+AD,yeast,20,TOMM22 - TOMM40,TOM22-TOM40
+AD,yeast,20,TOMM40 - PDHA1,TOM40-PDA1
+AD,yeast,20,TOMM40 - TIMM50,TOM40-TIM50
+AD,yeast,21,PPIA - ENO1,CPR1-ENO1; CPR1-ENO2
+AD,yeast,21,UCHL1 - UBB,YUH1-UBI4
+AD,yeast,21,HSPA9 - GAPDH,SSC1-TDH2; SSC1-TDH3; SSC1-TDH1
+AD,yeast,21,ENO1 - GAPDH,ENO1-TDH2; ENO1-TDH3; ENO1-TDH1; ENO2-TDH2; ENO2-TDH3; ENO2-TDH1
+AD,yeast,21,ENO1 - ENO2,ENO1-ENO2; ENO2-ENO1; ENO2-ERR1; ERR1-ENO2
+AD,yeast,21,ENO1 - ENO3,ENO1-ENO2; ENO2-ENO1; ENO2-ERR1; ERR1-ENO2
+AD,yeast,21,ENO1 - PGK1,ENO1-PGK1; ENO2-PGK1
+AD,yeast,21,ENO1 - PKM,ENO1-CDC19; ENO2-CDC19
+AD,yeast,21,ENO1 - TPI1,ENO1-TPI1; ENO2-TPI1
+AD,yeast,21,ENO3 - GAPDH,ENO1-TDH2; ENO1-TDH3; ENO1-TDH1; ENO2-TDH2; ENO2-TDH3; ENO2-TDH1
+AD,yeast,21,PGK1 - GAPDH,PGK1-TDH2; PGK1-TDH3; PGK1-TDH1
+AD,yeast,21,PGK1 - TPI1,PGK1-TPI1
+AD,yeast,21,PKM - GAPDH,CDC19-TDH2
+AD,yeast,21,TPI1 - GAPDH,TPI1-TDH2; TPI1-TDH3; TPI1-TDH1
+AD,yeast,21,TPI1 - GPI,TPI1-PGI1
+AD,yeast,21,RPS6 - GAPDH,RPS6A-TDH3; RPS6A-TDH1
+AD,yeast,21,PGAM1 - GAPDH,GPM1-TDH2; GPM1-TDH3; GPM1-TDH1
+AD,yeast,21,TRAP1 - GAPDH,HSP82-TDH2; HSP82-TDH3; HSP82-TDH1; HSC82-TDH2; HSC82-TDH3; HSC82-TDH1
+AD,fly,0,NAE1 - APP,APP-BP1-Appl
+AD,fly,2,GGA1 - IGF2R,Gga-Lerp
+AD,fly,2,IGF2R - GGA2,Lerp-Gga
+AD,fly,4,TAGLN2 - GSTO1,Chd64-GstE6
+AD,fly,4,MTM1 - BIN1,CG14411-Amph
+AD,fly,5,WASF3 - NCK2,SCAR-dock
+AD,fly,5,VASP - ABI3,ena-Abi
+AD,fly,5,MINK1 - NCK2,msn-dock
+AD,fly,5,PAK1 - NCK2,Pak-dock
+AD,fly,5,ENAH - ABI3,ena-Abi
+AD,fly,5,TNIK - NCK2,msn-dock
+AD,fly,5,EVL - ABI3,ena-Abi
+AD,fly,5,WIPF1 - NCK2,Vrp1-dock
+AD,fly,5,ABI3 - WASF2,Abi-SCAR
+AD,fly,5,WASF1 - NCK2,SCAR-dock
+AD,fly,5,WASF2 - NCK2,SCAR-dock
+AD,fly,5,PAK2 - NCK2,Pak-dock
+AD,fly,7,CLOCK - NPAS2,Met-gce; gce-Met
+AD,fly,7,CLOCK - NR1D2,Met-EcR
+AD,fly,7,CLOCK - RARA,Met-EcR
+AD,fly,7,CLOCK - RORB,Met-EcR
+AD,fly,7,CLOCK - RORC,Met-EcR
+AD,fly,7,CCNI2 - CDK5,CycE-Cdk5; CycD-Cdk5
+AD,fly,7,KIF5B - KLC1,Khc-Klc
+AD,fly,7,MAPK8IP3 - KLC1,syd-Klc
+AD,fly,7,CDK5 - CABLES1,Cdk5-CG6191
+AD,fly,7,CDK5 - CABLES2,Cdk5-CG6191
+AD,fly,7,CDK5 - CCNA2,Cdk5-CycE; Cdk5-CycD
+AD,fly,7,CDK5 - CCND1,Cdk5-CycE; Cdk5-CycD
+AD,fly,7,CDK5 - CCND2,Cdk5-CycE; Cdk5-CycD
+AD,fly,7,CDK5 - CCND3,Cdk5-CycE; Cdk5-CycD
+AD,fly,7,CDK5 - CCNE1,Cdk5-CycE; Cdk5-CycD
+AD,fly,7,CDK5 - CCNI,Cdk5-CycE; Cdk5-CycD
+AD,fly,8,MED14 - PPARG,MED14-EcR
+AD,fly,8,EPAS1 - ESR1,sima-ERR
+AD,fly,8,NCOA3 - PPARG,tai-EcR
+AD,fly,8,ESR2 - PSMC5,ERR-Rpt6
+AD,fly,8,RXRG - PPARA,usp-EcR
+AD,fly,8,NCOA1 - PPARA,tai-EcR
+AD,fly,8,NCOA1 - PPARG,tai-EcR
+AD,fly,8,RXRB - PPARG,usp-EcR
+AD,fly,8,MED1 - PPARG,MED1-EcR
+AD,fly,8,PPARG - NCOA2,EcR-tai
+AD,fly,10,ASF1A - MCM2,asf1-Mcm2
+AD,fly,10,MCM4 - MCM2,dpa-Mcm2
+AD,fly,10,MCM2 - ASF1B,Mcm2-asf1
+AD,fly,10,MCM2 - CHEK1,Mcm2-grp
+AD,fly,10,MCM2 - GINS3,Mcm2-Psf3
+AD,fly,10,MCM2 - GINS4,Mcm2-Sld5
+AD,fly,10,MCM2 - MCM3,Mcm2-Mcm3
+AD,fly,10,MCM2 - MCM5,Mcm2-Mcm5
+AD,fly,10,MCM2 - MCM6,Mcm2-Mcm6
+AD,fly,10,MCM2 - MCM7,Mcm2-Mcm7
+AD,fly,10,XRN1 - EDC4,pcm-Ge-1
+AD,fly,13,UBXN2B - VCP,p47-TER94
+AD,fly,13,UBXN6 - VCP,Gint3-TER94
+AD,fly,13,CUL1 - VCP,Cul1-TER94
+AD,fly,13,VCP - DERL1,TER94-Der-1
+AD,fly,13,VCP - MFN2,TER94-Marf
+AD,fly,13,VCP - NPLOC4,TER94-Npl4
+AD,fly,13,VCP - PSMA1,TER94-Prosalpha6
+AD,fly,13,VCP - PSMB6,TER94-Prosbeta1
+AD,fly,14,SH2B1 - IRS1,Lnk-chico
+AD,fly,14,PIK3R2 - IRS1,Pi3K21B-chico
+AD,fly,14,INPP5D - GRB2,Synj-drk
+AD,fly,14,CD2AP - CAPZA1,cindr-cpa
+AD,fly,14,CD2AP - GRB2,cindr-drk
+AD,fly,14,IRS1 - PIK3CB,chico-Pi3K92E
+AD,fly,14,IRS1 - PIK3R3,chico-Pi3K21B
+AD,fly,15,GSKIP - GSK3B,CG11523-sgg
+AD,fly,15,RCAN2 - PPP3R1,sra-CanB2
+AD,fly,15,GSK3B - GSK3A,gskt-sgg; sgg-gskt
+AD,fly,15,PPP3CC - RCAN1,CanA-14F-sra; Pp2B-14D-sra
+AD,fly,15,PPP3CC - PPP3R1,CanA1-CanB; Pp2B-14D-CanB2
+AD,fly,15,PPP3R1 - RCAN1,CanB2-sra
+AD,fly,15,PPP3R1 - RCAN3,CanB2-sra
+AD,fly,15,RCAN1 - PPP3CB,sra-CanA-14F; sra-Pp2B-14D
+AD,fly,20,PSEN1 - APH1A,Psn-aph-1
+AD,fly,20,PSEN1 - PSENEN,Psn-pen-2
+AD,fly,20,PSEN1 - UBQLN1,Psn-Ubqn
+AD,fly,20,TOMM20 - TOMM40,Tom20-Tom40
+AD,fly,20,UBQLN1 - PSEN2,Ubqn-Psn
+AD,fly,20,APH1A - PSEN2,aph-1-Psn
+AD,fly,20,PSENEN - PSEN2,pen-2-Psn
+AD,fly,21,UCHL1 - ENO1,Uch-Eno
+AD,fly,21,ENO1 - PGK1,Eno-Pgk
+PD,mouse,1,WSB1 - LRRK2,Wsb1-Lrrk2
+PD,mouse,1,YWHAB - LRRK2,Ywhab-Lrrk2
+PD,mouse,1,YWHAB - GIGYF2,Ywhab-Gigyf2
+PD,mouse,1,UCHL1 - COPS5,Uchl1-Cops5
+PD,mouse,1,UCHL1 - LAMP2,Uchl1-Lamp2
+PD,mouse,1,UCHL1 - UBB,Uchl1-Ubb
+PD,mouse,1,UCHL1 - UBC,Uchl1-Ubc
+PD,mouse,1,FIS1 - DNM1L,Fis1-Dnm1l
+PD,mouse,1,MBP - LRRK2,Mbp-Lrrk2
+PD,mouse,1,ZNF598 - GIGYF2,Zfp598-Gigyf2
+PD,mouse,1,AGO2 - GIGYF2,Ago2-Gigyf2
+PD,mouse,1,ARHGEF7 - LRRK2,Arhgef7-Lrrk2
+PD,mouse,1,MFF - DNM1L,Mff-Dnm1l
+PD,mouse,1,CDK5 - LRRK2,Cdk5-Lrrk2
+PD,mouse,1,RAB5B - LRRK2,Rab5b-Lrrk2
+PD,mouse,1,YWHAE - LRRK2,Ywhae-Lrrk2
+PD,mouse,1,HERC2 - LRRK2,Herc2-Lrrk2
+PD,mouse,1,RIPK2 - LRRK2,Ripk2-Lrrk2
+PD,mouse,1,PAK6 - LRRK2,Pak6-Lrrk2
+PD,mouse,1,DNM1L - LRRK2,Dnm1l-Lrrk2
+PD,mouse,1,DNM1L - USP16,Dnm1l-Usp16
+PD,mouse,1,NEURL4 - LRRK2,Neurl4-Lrrk2
+PD,mouse,1,DVL3 - LRRK2,Dvl3-Lrrk2
+PD,mouse,1,YWHAG - LRRK2,Ywhag-Lrrk2
+PD,mouse,1,LRRK2 - YWHAH,Lrrk2-Ywhah
+PD,mouse,1,LRRK2 - YWHAZ,Lrrk2-Ywhaz
+PD,mouse,2,FANCD2 - ATM,Fancd2-Atm
+PD,mouse,2,ATM - BLM,Atm-Blm
+PD,mouse,2,ATM - MCPH1,Atm-Mcph1
+PD,mouse,2,ATM - PPP2R1A,Atm-Ppp2r1a
+PD,mouse,2,ATM - RBBP8,Atm-Rbbp8
+PD,mouse,2,ATM - RRM2B,Atm-Rrm2b
+PD,mouse,2,ATM - TELO2,Atm-Telo2
+PD,mouse,2,TOP1 - PARP1,Top1-Parp1
+PD,mouse,2,TOP1 - RFC1,Top1-Rfc1
+PD,mouse,2,RFC1 - BLM,Rfc1-Blm
+PD,mouse,2,RFC1 - MSH6,Rfc1-Msh6
+PD,mouse,2,RFC1 - XRCC5,Rfc1-Xrcc5
+PD,mouse,2,XRCC5 - PARP1,Xrcc5-Parp1
+PD,mouse,2,E2F1 - PARP1,E2f1-Parp1
+PD,mouse,2,EED - MTA1,Eed-Mta1
+PD,mouse,2,RBBP4 - MTA1,Rbbp4-Mta1
+PD,mouse,2,CAST - CAPN1,Cast-Capn1
+PD,mouse,2,RBBP7 - MTA1,Rbbp7-Mta1
+PD,mouse,3,GABRA1 - HSPA8,Gabra1-Hspa8
+PD,mouse,3,HCFC1 - HSPA8,Hcfc1-Hspa8
+PD,mouse,3,HSPA8 - ATXN10,Hspa8-Atxn10
+PD,mouse,3,HSPA8 - CDK4,Hspa8-Cdk4
+PD,mouse,3,HSPA8 - DNAJA2,Hspa8-Dnaja2
+PD,mouse,3,HSPA8 - DNAJB1,Hspa8-Dnajb1
+PD,mouse,3,HSPA8 - HSPA2,Hspa8-Hspa2
+PD,mouse,3,HSPA8 - PRPF19,Hspa8-Prpf19
+PD,mouse,3,HSPA8 - ROCK2,Hspa8-Rock2
+PD,mouse,3,HSPA8 - SGTA,Hspa8-Sgta
+PD,mouse,3,HSPA8 - SNRPD2,Hspa8-Snrpd2
+PD,mouse,3,HSPA8 - SNRPD3,Hspa8-Snrpd3
+PD,mouse,3,HSPA8 - SRRT,Hspa8-Srrt
+PD,mouse,3,HSPA8 - SUGT1,Hspa8-Sugt1
+PD,mouse,3,HSPA8 - U2AF2,Hspa8-U2af2
+PD,mouse,3,HSPA8 - WDR5,Hspa8-Wdr5
+PD,mouse,4,CASP1 - IL1B,Casp1-Il1b
+PD,mouse,4,ACTA1 - HTRA2,Acta1-Htra2
+PD,mouse,4,AKT1S1 - AKT1,Akt1s1-Akt1
+PD,mouse,4,DFFA - CASP3,Dffa-Casp3
+PD,mouse,4,GMEB1 - CASP9,Gmeb1-Casp9
+PD,mouse,4,CASP9 - BIRC3,Casp9-Birc3
+PD,mouse,4,MAPK14 - AKT1,Mapk14-Akt1
+PD,mouse,4,MAPK14 - HTRA2,Mapk14-Htra2
+PD,mouse,4,PINK1 - CRLS1,Pink1-Crls1
+PD,mouse,4,EIF4G1 - HTRA2,Eif4g1-Htra2
+PD,mouse,4,CDKN1A - AKT1,Cdkn1a-Akt1
+PD,mouse,4,DIABLO - HTRA2,Diablo-Htra2
+PD,mouse,4,BIRC2 - HTRA2,Birc2-Htra2
+PD,mouse,4,HTRA2 - BIRC3,Htra2-Birc3
+PD,mouse,4,HTRA2 - BIRC7,Htra2-Birc7
+PD,mouse,4,HTRA2 - CCAR2,Htra2-Ccar2
+PD,mouse,4,HTRA2 - CSN2,Htra2-Csn2
+PD,mouse,4,HTRA2 - XIAP,Htra2-Xiap
+PD,mouse,4,PHLPP1 - AKT1,Phlpp1-Akt1
+PD,mouse,4,CLIP3 - AKT1,Clip3-Akt1
+PD,mouse,4,HSP90AA1 - AKT1,Hsp90aa1-Akt1
+PD,mouse,4,IL1B - CASP8,Il1b-Casp8
+PD,mouse,4,APPL1 - AKT1,Appl1-Akt1
+PD,mouse,4,Bid - CASP3,Bid-Casp3
+PD,mouse,4,AKT1 - MDM2,Akt1-Mdm2
+PD,mouse,4,AKT1 - TSC1,Akt1-Tsc1
+PD,mouse,4,CASP3 - BIRC3,Casp3-Birc3
+PD,mouse,5,CRMP1 - HTT,Crmp1-Htt
+PD,mouse,5,TRADD - TNF,Tradd-Tnf
+PD,mouse,5,RIPK1 - TNF,Ripk1-Tnf
+PD,mouse,5,DNAJA1 - HTT,Dnaja1-Htt
+PD,mouse,5,SH3GL3 - HTT,Sh3gl3-Htt
+PD,mouse,5,PFN2 - HTT,Pfn2-Htt
+PD,mouse,5,IKBKB - TNF,Ikbkb-Tnf
+PD,mouse,5,ULK1 - HTT,Ulk1-Htt
+PD,mouse,5,IKBKG - TNF,Ikbkg-Tnf
+PD,mouse,5,TNFRSF1B - TNF,Tnfrsf1b-Tnf
+PD,mouse,5,OPTN - HTT,Optn-Htt
+PD,mouse,5,TBK1 - TNF,Tbk1-Tnf
+PD,mouse,5,SHARPIN - TNF,Sharpin-Tnf
+PD,mouse,5,SYT12 - HTT,Syt12-Htt
+PD,mouse,5,SQSTM1 - HTT,Sqstm1-Htt
+PD,mouse,5,TNF - IKBKE,Tnf-Ikbke
+PD,mouse,5,TNF - RNF31,Tnf-Rnf31
+PD,mouse,5,TNF - TNIP1,Tnf-Tnip1
+PD,mouse,5,TNF - ZFP36,Tnf-Zfp36
+PD,mouse,5,HTT - F8A1,Htt-F8a
+PD,mouse,6,NDUFS2 - NDUFV2,Ndufs2-Ndufv2
+PD,mouse,6,NDUFA4 - NDUFV2,Ndufa4-Ndufv2
+PD,mouse,6,CS - NDUFV2,Cs-Ndufv2
+PD,mouse,6,NOS1 - STUB1,Nos1-Stub1
+PD,mouse,6,NOS1 - DLG4,Nos1-Dlg4
+PD,mouse,6,NOS1 - SNTA1,Nos1-Snta1
+PD,mouse,6,NDUFS1 - NDUFV2,Ndufs1-Ndufv2
+PD,mouse,6,NDUFA8 - NDUFV2,Ndufa8-Ndufv2
+PD,mouse,6,NDUFA10 - NDUFV2,Ndufa10-Ndufv2
+PD,mouse,6,TFAM - GRSF1,Tfam-Grsf1
+PD,mouse,6,TFAM - TFB1M,Tfam-Tfb1m
+PD,mouse,6,NDUFB5 - NDUFV2,Ndufb5-Ndufv2
+PD,mouse,6,NDUFV3 - NDUFV2,Ndufv3-Ndufv2
+PD,mouse,6,NDUFV1 - NDUFV2,Ndufv1-Ndufv2
+PD,mouse,6,NDUFS6 - NDUFV2,Ndufs6-Ndufv2
+PD,mouse,6,NDUFS7 - NDUFV2,Ndufs7-Ndufv2
+PD,mouse,6,NDUFB4 - NDUFV2,Ndufb4-Ndufv2
+PD,mouse,6,NDUFB10 - NDUFV2,Ndufb10-Ndufv2
+PD,mouse,6,NDUFA12 - NDUFV2,Ndufa12-Ndufv2
+PD,mouse,6,UQCRC1 - NDUFV2,Uqcrc1-Ndufv2
+PD,mouse,6,NDUFS3 - NDUFV2,Ndufs3-Ndufv2
+PD,mouse,6,NDUFB7 - NDUFV2,Ndufb7-Ndufv2
+PD,mouse,6,SDHB - NDUFV2,Sdhb-Ndufv2
+PD,mouse,6,NDUFB6 - NDUFV2,Ndufb6-Ndufv2
+PD,mouse,6,NDUFA6 - NDUFV2,Ndufa6-Ndufv2
+PD,mouse,6,NDUFV2 - NDUFA2,Ndufv2-Ndufa2
+PD,mouse,6,NDUFV2 - NDUFS4,Ndufv2-Ndufs4
+PD,mouse,6,NDUFV2 - NDUFS5,Ndufv2-Ndufs5
+PD,mouse,6,KCNJ4 - DLG4,Kcnj4-Dlg4
+PD,mouse,7,NCOA1 - VDR,Ncoa1-Vdr
+PD,mouse,7,VDR - RXRA,Vdr-Rxra
+PD,mouse,7,VDR - SMAD3,Vdr-Smad3
+PD,mouse,7,NCOA6 - ESR2,Ncoa6-Esr2
+PD,mouse,7,SIRT1 - PPARGC1A,Sirt1-Ppargc1a
+PD,mouse,7,ESRRA - PPARGC1A,Esrra-Ppargc1a
+PD,mouse,7,HNF4A - PPARGC1A,Hnf4a-Ppargc1a
+PD,mouse,7,PPARGC1A - EWSR1,Ppargc1a-Ewsr1
+PD,mouse,8,RPS11 - RPS8,Rps11-Rps8
+PD,mouse,8,RPS11 - RPL14,Rps11-Rpl14
+PD,mouse,8,RPS11 - RPL23A,Rps11-Rpl23a
+PD,mouse,8,RPS11 - RPL6,Rps11-Rpl6
+PD,mouse,8,RPLP2 - RPS8,Rplp2-Rps8
+PD,mouse,8,RPLP2 - RPL14,Rplp2-Rpl14
+PD,mouse,8,RPLP2 - RPL23A,Rplp2-Rpl23a
+PD,mouse,8,RPLP2 - RPL6,Rplp2-Rpl6
+PD,mouse,8,RPS9 - RPS8,Rps9-Rps8
+PD,mouse,8,RPS9 - RPL14,Rps9-Rpl14
+PD,mouse,8,RPS9 - RPL23A,Rps9-Rpl23a
+PD,mouse,8,RPS9 - RPL6,Rps9-Rpl6
+PD,mouse,8,RPL6 - RPS8,Rpl6-Rps8
+PD,mouse,8,RPL6 - RPL14,Rpl6-Rpl14
+PD,mouse,8,RPL6 - RPL23A,Rpl6-Rpl23a
+PD,mouse,8,RPL6 - DHX9,Rpl6-Dhx9
+PD,mouse,8,RPL6 - EIF6,Rpl6-Eif6
+PD,mouse,8,RPL6 - HNRNPU,Rpl6-Hnrnpu
+PD,mouse,8,RPL6 - NCL,Rpl6-Ncl
+PD,mouse,8,RPL6 - RPL11,Rpl6-Rpl11
+PD,mouse,8,RPL6 - RPL12,Rpl6-Rpl12
+PD,mouse,8,RPL6 - RPL13,Rpl6-Rpl13
+PD,mouse,8,RPL6 - RPL15,Rpl6-Rpl15
+PD,mouse,8,RPL6 - RPL18A,Rpl6-Rpl18a
+PD,mouse,8,RPL6 - RPL19,Rpl6-Rpl19
+PD,mouse,8,RPL6 - RPL22,Rpl6-Rpl22
+PD,mouse,8,RPL6 - RPL23,Rpl6-Rpl23
+PD,mouse,8,RPL6 - RPL27,Rpl6-Rpl27
+PD,mouse,8,RPL6 - RPL27A,Rpl6-Rpl27a
+PD,mouse,8,RPL6 - RPL28,Rpl6-Rpl28
+PD,mouse,8,RPL6 - RPL29,Rpl6-Rpl29
+PD,mouse,8,RPL6 - RPL3,Rpl6-Rpl3
+PD,mouse,8,RPL6 - RPL35,Rpl6-Rpl35
+PD,mouse,8,RPL6 - RPL35A,Rpl6-Rpl35a
+PD,mouse,8,RPL6 - RPL38,Rpl6-Rpl38
+PD,mouse,8,RPL6 - RPL4,Rpl6-Rpl4
+PD,mouse,8,RPL6 - RPL5,Rpl6-Rpl5
+PD,mouse,8,RPL6 - RPL7A,Rpl6-Rpl7a
+PD,mouse,8,RPL6 - RPL8,Rpl6-Rpl8
+PD,mouse,8,RPL6 - RPLP1,Rpl6-Rplp1
+PD,mouse,8,RPL6 - RPS13,Rpl6-Rps13
+PD,mouse,8,RPL6 - RPS14,Rpl6-Rps14
+PD,mouse,8,RPL6 - RPS15A,Rpl6-Rps15a
+PD,mouse,8,RPL6 - RPS16,Rpl6-Rps16
+PD,mouse,8,RPL6 - RPS17,Rpl6-Rps17
+PD,mouse,8,RPL6 - RPS2,Rpl6-Rps2
+PD,mouse,8,RPL6 - RPS20,Rpl6-Rps20
+PD,mouse,8,RPL6 - RPS23,Rpl6-Rps23
+PD,mouse,8,RPL6 - RPS5,Rpl6-Rps5
+PD,mouse,8,RPL6 - RPS6,Rpl6-Rps6
+PD,mouse,8,RPL6 - RPS7,Rpl6-Rps7
+PD,mouse,8,RPL6 - RPSA,Rpl6-Rpsa
+PD,mouse,8,RPL6 - STAU1,Rpl6-Stau1
+PD,mouse,8,RPL10 - RPS8,Rpl10-Rps8
+PD,mouse,8,RPL10 - RPL14,Rpl10-Rpl14
+PD,mouse,8,RPS5 - RPS8,Rps5-Rps8
+PD,mouse,8,RPS5 - RPL14,Rps5-Rpl14
+PD,mouse,8,RPS5 - RPL23A,Rps5-Rpl23a
+PD,mouse,8,RPL14 - RPS8,Rpl14-Rps8
+PD,mouse,8,RPL14 - RPL10A,Rpl14-Rpl10a
+PD,mouse,8,RPL14 - RPL11,Rpl14-Rpl11
+PD,mouse,8,RPL14 - RPL12,Rpl14-Rpl12
+PD,mouse,8,RPL14 - RPL13,Rpl14-Rpl13
+PD,mouse,8,RPL14 - RPL13A,Rpl14-Rpl13a
+PD,mouse,8,RPL14 - RPL15,Rpl14-Rpl15
+PD,mouse,8,RPL14 - RPL18A,Rpl14-Rpl18a
+PD,mouse,8,RPL14 - RPL19,Rpl14-Rpl19
+PD,mouse,8,RPL14 - RPL22,Rpl14-Rpl22
+PD,mouse,8,RPL14 - RPL23,Rpl14-Rpl23
+PD,mouse,8,RPL14 - RPL23A,Rpl14-Rpl23a
+PD,mouse,8,RPL14 - RPL27,Rpl14-Rpl27
+PD,mouse,8,RPL14 - RPL27A,Rpl14-Rpl27a
+PD,mouse,8,RPL14 - RPL28,Rpl14-Rpl28
+PD,mouse,8,RPL14 - RPL3,Rpl14-Rpl3
+PD,mouse,8,RPL14 - RPL32,Rpl14-Rpl32
+PD,mouse,8,RPL14 - RPL35,Rpl14-Rpl35
+PD,mouse,8,RPL14 - RPL35A,Rpl14-Rpl35a
+PD,mouse,8,RPL14 - RPL38,Rpl14-Rpl38
+PD,mouse,8,RPL14 - RPL4,Rpl14-Rpl4
+PD,mouse,8,RPL14 - RPL5,Rpl14-Rpl5
+PD,mouse,8,RPL14 - RPL7A,Rpl14-Rpl7a
+PD,mouse,8,RPL14 - RPL8,Rpl14-Rpl8
+PD,mouse,8,RPL14 - RPLP1,Rpl14-Rplp1
+PD,mouse,8,RPL14 - RPS13,Rpl14-Rps13
+PD,mouse,8,RPL14 - RPS14,Rpl14-Rps14
+PD,mouse,8,RPL14 - RPS15A,Rpl14-Rps15a
+PD,mouse,8,RPL14 - RPS16,Rpl14-Rps16
+PD,mouse,8,RPL14 - RPS17,Rpl14-Rps17
+PD,mouse,8,RPL14 - RPS18,Rpl14-Rps18
+PD,mouse,8,RPL14 - RPS2,Rpl14-Rps2
+PD,mouse,8,RPL14 - RPS20,Rpl14-Rps20
+PD,mouse,8,RPL14 - RPS23,Rpl14-Rps23
+PD,mouse,8,RPL14 - RPS6,Rpl14-Rps6
+PD,mouse,8,RPL14 - RPS7,Rpl14-Rps7
+PD,mouse,8,RPL14 - RPSA,Rpl14-Rpsa
+PD,mouse,8,RPL12 - RPS8,Rpl12-Rps8
+PD,mouse,8,RPL12 - RPL23A,Rpl12-Rpl23a
+PD,mouse,8,RPL7A - RPS8,Rpl7a-Rps8
+PD,mouse,8,RPL7A - RPL23A,Rpl7a-Rpl23a
+PD,mouse,8,RPS7 - RPS8,Rps7-Rps8
+PD,mouse,8,RPS7 - RPL23A,Rps7-Rpl23a
+PD,mouse,8,RPS8 - HNRNPU,Rps8-Hnrnpu
+PD,mouse,8,RPS8 - ILF3,Rps8-Ilf3
+PD,mouse,8,RPS8 - LARP1,Rps8-Larp1
+PD,mouse,8,RPS8 - NCL,Rps8-Ncl
+PD,mouse,8,RPS8 - RPL11,Rps8-Rpl11
+PD,mouse,8,RPS8 - RPL13,Rps8-Rpl13
+PD,mouse,8,RPS8 - RPL15,Rps8-Rpl15
+PD,mouse,8,RPS8 - RPL18A,Rps8-Rpl18a
+PD,mouse,8,RPS8 - RPL19,Rps8-Rpl19
+PD,mouse,8,RPS8 - RPL22,Rps8-Rpl22
+PD,mouse,8,RPS8 - RPL23,Rps8-Rpl23
+PD,mouse,8,RPS8 - RPL23A,Rps8-Rpl23a
+PD,mouse,8,RPS8 - RPL26,Rps8-Rpl26
+PD,mouse,8,RPS8 - RPL27A,Rps8-Rpl27a
+PD,mouse,8,RPS8 - RPL32,Rps8-Rpl32
+PD,mouse,8,RPS8 - RPL35,Rps8-Rpl35
+PD,mouse,8,RPS8 - RPL4,Rps8-Rpl4
+PD,mouse,8,RPS8 - RPL5,Rps8-Rpl5
+PD,mouse,8,RPS8 - RPL8,Rps8-Rpl8
+PD,mouse,8,RPS8 - RPS13,Rps8-Rps13
+PD,mouse,8,RPS8 - RPS14,Rps8-Rps14
+PD,mouse,8,RPS8 - RPS15,Rps8-Rps15
+PD,mouse,8,RPS8 - RPS15A,Rps8-Rps15a
+PD,mouse,8,RPS8 - RPS16,Rps8-Rps16
+PD,mouse,8,RPS8 - RPS17,Rps8-Rps17
+PD,mouse,8,RPS8 - RPS18,Rps8-Rps18
+PD,mouse,8,RPS8 - RPS2,Rps8-Rps2
+PD,mouse,8,RPS8 - RPS20,Rps8-Rps20
+PD,mouse,8,RPS8 - RPS21,Rps8-Rps21
+PD,mouse,8,RPS8 - RPS23,Rps8-Rps23
+PD,mouse,8,RPS8 - RPS28,Rps8-Rps28
+PD,mouse,8,RPS8 - RPS6,Rps8-Rps6
+PD,mouse,8,RPS8 - RPSA,Rps8-Rpsa
+PD,mouse,8,RPS8 - STAU1,Rps8-Stau1
+PD,mouse,8,RPSA - RPL23A,Rpsa-Rpl23a
+PD,mouse,8,RPL38 - RPL23A,Rpl38-Rpl23a
+PD,mouse,8,RPS14 - RPL23A,Rps14-Rpl23a
+PD,mouse,8,RPL27 - RPL23A,Rpl27-Rpl23a
+PD,mouse,8,RPS13 - RPL23A,Rps13-Rpl23a
+PD,mouse,8,RPL22 - RPL23A,Rpl22-Rpl23a
+PD,mouse,8,RPS16 - RPL23A,Rps16-Rpl23a
+PD,mouse,8,RPL11 - RPL23A,Rpl11-Rpl23a
+PD,mouse,8,RPL35 - RPL23A,Rpl35-Rpl23a
+PD,mouse,8,RPL10A - RPL23A,Rpl10a-Rpl23a
+PD,mouse,8,RPL4 - RPL23A,Rpl4-Rpl23a
+PD,mouse,8,ADAR - EIF2AK2,Adar-Eif2ak2
+PD,mouse,8,RPL8 - RPL23A,Rpl8-Rpl23a
+PD,mouse,8,RPL18A - RPL23A,Rpl18a-Rpl23a
+PD,mouse,8,RPL23 - RPL23A,Rpl23-Rpl23a
+PD,mouse,8,RPL23A - RPL13,Rpl23a-Rpl13
+PD,mouse,8,RPL23A - RPL15,Rpl23a-Rpl15
+PD,mouse,8,RPL23A - RPL19,Rpl23a-Rpl19
+PD,mouse,8,RPL23A - RPL3,Rpl23a-Rpl3
+PD,mouse,8,RPL23A - RPL32,Rpl23a-Rpl32
+PD,mouse,8,RPL23A - RPL5,Rpl23a-Rpl5
+PD,mouse,8,RPL23A - RPS15,Rpl23a-Rps15
+PD,mouse,8,RPL23A - RPS17,Rpl23a-Rps17
+PD,mouse,8,RPL23A - RPS2,Rpl23a-Rps2
+PD,mouse,8,RPL23A - RPS20,Rpl23a-Rps20
+PD,mouse,8,RPL23A - RPS23,Rpl23a-Rps23
+PD,mouse,8,RPL23A - YBX1,Rpl23a-Ybx1
+PD,mouse,9,SNX1 - VPS35,Snx1-Vps35
+PD,mouse,9,TBC1D5 - VPS35,Tbc1d5-Vps35
+PD,mouse,9,SNX3 - VPS35,Snx3-Vps35
+PD,mouse,9,SNX2 - VPS35,Snx2-Vps35
+PD,mouse,9,SNX6 - VPS35,Snx6-Vps35
+PD,mouse,9,VPS35 - ANKFY1,Vps35-Ankfy1
+PD,mouse,9,VPS35 - VPS26B,Vps35-Vps26b
+PD,mouse,10,FGF1 - HSPA9,Fgf1-Hspa9
+PD,mouse,10,ITPR3 - HSPA9,Itpr3-Hspa9
+PD,mouse,10,ITPR3 - PARK7,Itpr3-Park7
+PD,mouse,10,PRDX6 - GSTP1,Prdx6-Gstp1
+PD,mouse,10,NQO1 - BAG3,Nqo1-Bag3
+PD,mouse,10,HSPA9 - BRAF,Hspa9-Braf
+PD,mouse,10,HSPA9 - DNAJA3,Hspa9-Dnaja3
+PD,mouse,10,HSPA9 - GRPEL1,Hspa9-Grpel1
+PD,mouse,10,HSPA9 - HSPD1,Hspa9-Hspd1
+PD,mouse,10,HSPA9 - MVD,Hspa9-Mvd
+PD,mouse,10,HSPA9 - PARK7,Hspa9-Park7
+PD,mouse,10,HSPA9 - SDHA,Hspa9-Sdha
+PD,mouse,10,HSPA9 - TIMM44,Hspa9-Timm44
+PD,mouse,10,HSPA9 - TRAP1,Hspa9-Trap1
+PD,mouse,10,HSPA9 - UBXN2A,Hspa9-Ubxn2a
+PD,mouse,10,SOD1 - PARK7,Sod1-Park7
+PD,mouse,10,ENO2 - ENO3,Eno2-Eno3
+PD,mouse,10,GSTO1 - BAG3,Gsto1-Bag3
+PD,mouse,10,FANCC - GSTP1,Fancc-Gstp1
+PD,mouse,10,GSTP1 - MAPK8,Gstp2-Mapk8
+PD,mouse,12,PAWR - DRD2,Pawr-Drd2
+PD,mouse,12,PDLIM1 - GFAP,Pdlim1-Gfap
+PD,mouse,12,MAPK8IP3 - MAP3K5,Mapk8ip3-Map3k5
+PD,mouse,12,TXN - MAP3K5,Txn1-Map3k5
+PD,mouse,12,GSTM1 - MAP3K5,Gstm1-Map3k5
+PD,mouse,12,VIM - GFAP,Vim-Gfap
+PD,mouse,12,FBXW11 - MAP3K5,Fbxw11-Map3k5
+PD,mouse,12,MAP3K5 - APP,Map3k5-App
+PD,mouse,12,MAP3K5 - GEMIN5,Map3k5-Gemin5
+PD,mouse,12,MAP3K5 - RB1CC1,Map3k5-Rb1cc1
+PD,mouse,12,APP - GFAP,App-Gfap
+PD,mouse,13,TNK2 - CLTC,Tnk2-Cltc
+PD,mouse,13,TNK2 - LCP2,Tnk2-Lcp2
+PD,mouse,13,TNK2 - NCK1,Tnk2-Nck1
+PD,mouse,13,SH3GL2 - SYNJ1,Sh3gl2-Synj1
+PD,mouse,13,AP2A1 - SYNJ1,Ap2a1-Synj1
+PD,mouse,13,MAG - PRNP,Mag-Prnp
+PD,mouse,13,NGF - NGFR,Ngf-Ngfr
+PD,mouse,13,ERC2 - BSN,Erc2-Bsn
+PD,mouse,13,CLTC - DNAJC6,Cltc-Dnajc6
+PD,mouse,14,DDX5 - TARDBP,Ddx5-Tardbp
+PD,mouse,14,DDX3X - TARDBP,Ddx3x-Tardbp
+PD,mouse,14,UBQLN2 - HSPA1A,Ubqln2-Hspa1b
+PD,mouse,14,HNRNPUL1 - TARDBP,Hnrnpul1-Tardbp
+PD,mouse,14,APMAP - HSPA1A,Apmap-Hspa1a
+PD,mouse,14,CELF1 - TARDBP,Celf1-Tardbp
+PD,mouse,14,NACC1 - TARDBP,Nacc1-Tardbp
+PD,mouse,14,DNAJA4 - HSPA1A,Dnaja4-Hspa1a
+PD,mouse,14,DDX17 - TARDBP,Ddx17-Tardbp
+PD,mouse,14,SORD - TALDO1,Sord-Taldo1
+PD,mouse,14,TARDBP - FUS,Tardbp-Fus
+PD,mouse,14,TARDBP - ILF2,Tardbp-Ilf2
+PD,mouse,15,JUN - CREB1,Jun-Creb1
+PD,mouse,15,CREB1 - CRTC1,Creb1-Crtc1
+PD,mouse,17,INSR - IGF1R,Insr-Igf1r
+PD,mouse,17,INSR - INSRR,Insr-Insrr
+PD,mouse,17,INSR - IRS1,Insr-Irs1
+PD,mouse,17,INSR - SH2B2,Insr-Sh2b2
+PD,mouse,17,INSR - SOCS3,Insr-Socs3
+PD,mouse,17,IRS1 - IGF1R,Irs1-Igf1r
+PD,mouse,17,PLXNA1 - NRP1,Plxna1-Nrp1
+PD,mouse,17,SMC2 - NCAPG2,Smc2-Ncapg2
+PD,mouse,18,RPS6KA1 - MAPK1,Rps6ka1-Mapk1
+PD,mouse,18,ATF2 - MAPK1,Atf2-Mapk1
+PD,mouse,18,CENPE - MAPK1,Cenpe-Mapk1
+PD,mouse,18,PEA15 - MAPK1,Pea15a-Mapk1
+PD,mouse,18,PEA15 - MAPK3,Pea15a-Mapk3
+PD,mouse,18,RPS6KA3 - MAPK1,Rps6ka3-Mapk1
+PD,mouse,18,RPS6KA3 - MAPK3,Rps6ka3-Mapk3
+PD,mouse,18,MAP2K2 - MAPK1,Map2k2-Mapk1
+PD,mouse,18,MAP2K2 - MAPK3,Map2k2-Mapk3
+PD,mouse,18,PTPN5 - MAPK1,Ptpn5-Mapk1
+PD,mouse,18,ELK1 - MAPK1,Elk1-Mapk1
+PD,mouse,18,ELK1 - MAPK3,Elk1-Mapk3
+PD,mouse,18,DHPS - MAPK1,Dhps-Mapk1
+PD,mouse,18,RPS6KA2 - MAPK1,Rps6ka2-Mapk1
+PD,mouse,18,LAMTOR3 - MAPK1,Lamtor3-Mapk1
+PD,mouse,18,NEDD4L - FBP1,Nedd4l-Fbp1
+PD,mouse,18,ARHGEF2 - MAPK1,Arhgef2-Mapk1
+PD,mouse,18,Ksr1 - MAPK1,Ksr1-Mapk1
+PD,mouse,18,MAPK3 - MAPK1,Mapk3-Mapk1
+PD,mouse,18,DUSP2 - MAPK1,Dusp2-Mapk1
+PD,mouse,18,MAPK1 - PXN,Mapk1-Pxn
+PD,mouse,18,MAPK1 - TOP2A,Mapk1-Top2a
+PD,mouse,21,RAB3A - SNCA,Rab3a-Snca
+PD,mouse,21,Syp - SNCA,Syp-Snca
+PD,mouse,21,SLC6A3 - SNCA,Slc6a3-Snca
+PD,mouse,21,SLC6A3 - STX1A,Slc6a3-Stx1a
+PD,mouse,21,PPP1CC - MAPT,Ppp1cc-Mapt
+PD,mouse,21,PPP1CA - MAPT,Ppp1ca-Mapt
+PD,mouse,21,SLC25A4 - MAPT,Slc25a4-Mapt
+PD,mouse,21,ARSA - SNCA,Arsa-Snca
+PD,mouse,21,NEFL - MAP2,Nefl-Map2
+PD,mouse,21,NUB1 - MAPT,Nub1-Mapt
+PD,mouse,21,PPIB - MAPT,Ppib-Mapt
+PD,mouse,21,BDH2 - SNCA,Bdh2-Snca
+PD,mouse,21,UBA52 - SNCA,Uba52-Snca
+PD,mouse,21,TUBA1A - MAPT,Tuba1a-Mapt
+PD,mouse,21,TUBA1B - MAPT,Tuba1b-Mapt
+PD,mouse,21,TRIM11 - MAPT,Trim11-Mapt
+PD,mouse,21,SNAP91 - MAPT,Snap91-Mapt
+PD,mouse,21,UBA1 - MAPT,Uba1-Mapt
+PD,mouse,21,ATAD1 - SNCA,Atad1-Snca
+PD,mouse,21,TUBB3 - MAPT,Tubb3-Mapt
+PD,mouse,21,VAMP2 - SNCA,Vamp2-Snca
+PD,mouse,21,MAP2 - SNCA,Map2-Snca
+PD,mouse,21,MAP2 - DAG1,Map2-Dag1
+PD,mouse,21,MAP2 - NEDD4,Map2-Nedd4
+PD,mouse,21,GSK3A - MAPT,Gsk3a-Mapt
+PD,mouse,21,PDHB - MAPT,Pdhb-Mapt
+PD,mouse,21,NAPB - MAPT,Napb-Mapt
+PD,mouse,21,PRKACA - MAPT,Prkaca-Mapt
+PD,mouse,21,ARF4 - MAPT,Arf4-Mapt
+PD,mouse,21,TIA1 - MAPT,Tia1-Mapt
+PD,mouse,21,PPP2CA - MAPT,Ppp2ca-Mapt
+PD,mouse,21,SNCA - NEDD4,Snca-Nedd4
+PD,mouse,21,SNCA - SNCB,Snca-Sncb
+PD,mouse,21,SNCA - SYN1,Snca-Syn1
+PD,mouse,21,SNCA - SNCA,Snca-Snca
+PD,mouse,21,GPI - MAPT,Gpi1-Mapt
+PD,mouse,21,MAPT - OXCT1,Mapt-Oxct1
+PD,mouse,21,MAPT - PIN1,Mapt-Pin1
+PD,mouse,21,MAPT - SLC1A2,Mapt-Slc1a2
+PD,mouse,21,MAPT - USP5,Mapt-Usp5
+PD,mouse,21,SNCAIP - KALRN,Sncaip-Kalrn
+PD,yeast,1,UCHL1 - UBB,YUH1-UBI4
+PD,yeast,3,TSSK1B - HSPA8,KIN2-SSE2; KIN2-SSE1; FRK1-SSE2
+PD,yeast,3,HSPA8 - DNAJA2,SSE2-YDJ1; SSE1-YDJ1
+PD,yeast,3,HSPA8 - G6PD,SSE2-ZWF1
+PD,yeast,3,HSPA8 - HSPA2,SSE2-SSB2; SSE2-SSB1; SSE1-SSB2; SSE1-SSB1
+PD,yeast,3,HSPA8 - PSMD4,SSE1-RPN10
+PD,yeast,3,HSPA8 - PSMD6,SSE1-RPN7
+PD,yeast,3,HSPA8 - RUVBL2,SSE1-RVB2
+PD,yeast,3,HSPA8 - WDR6,SSE1-RTT10
+PD,yeast,8,DRG1 - RPL6,RBG1-RPL6A
+PD,yeast,8,DDX27 - RPS8,DRS1-RPS8A
+PD,yeast,8,DDX27 - RPL14,DRS1-RPL14A
+PD,yeast,8,RPS11 - RPS8,RPS11A-RPS8B; RPS11A-RPS8A
+PD,yeast,8,RPLP2 - RPL14,RPP2A-RPL14B; RPP2A-RPL14A; RPP2B-RPL14B; RPP2B-RPL14A
+PD,yeast,8,RPLP2 - RPL6,RPP2A-RPL6B; RPP2A-RPL6A; RPP2B-RPL6B; RPP2B-RPL6A
+PD,yeast,8,RPS9 - RPS8,RPS9A-RPS8A; RPS9B-RPS8B; RPS9B-RPS8A
+PD,yeast,8,RPS9 - RPL14,RPS9A-RPL14A
+PD,yeast,8,RPS9 - RPL6,RPS9A-RPL6A
+PD,yeast,8,RPL6 - RPS8,RPL6A-RPS8A
+PD,yeast,8,RPL6 - RPL14,RPL6B-RPL14A; RPL6A-RPL14A
+PD,yeast,8,RPL6 - CNBP,RPL6B-GIS2; RPL6A-GIS2
+PD,yeast,8,RPL6 - DDX24,RPL6A-MAK5
+PD,yeast,8,RPL6 - G3BP1,RPL6B-BRE5; RPL6A-BRE5
+PD,yeast,8,RPL6 - KRR1,RPL6B-KRR1; RPL6A-KRR1
+PD,yeast,8,RPL6 - NFX1,RPL6A-FAP1
+PD,yeast,8,RPL6 - NOP2,RPL6B-NOP2
+PD,yeast,8,RPL6 - RPL10,RPL6B-RPL10; RPL6A-RPL10
+PD,yeast,8,RPL6 - RPL12,RPL6B-RPL12B; RPL6B-RPL12A; RPL6A-RPL12B; RPL6A-RPL12A
+PD,yeast,8,RPL6 - RPL13,RPL6B-RPL13B; RPL6A-RPL13B
+PD,yeast,8,RPL6 - RPL15,RPL6B-RPL15A; RPL6A-RPL15B; RPL6A-RPL15A
+PD,yeast,8,RPL6 - RPL17,RPL6B-RPL17A; RPL6A-RPL17B; RPL6A-RPL17A
+PD,yeast,8,RPL6 - RPL18,RPL6B-RPL18A; RPL6A-RPL18A
+PD,yeast,8,RPL6 - RPL18A,RPL6B-RPL20A; RPL6A-RPL20A
+PD,yeast,8,RPL6 - RPL19,RPL6B-RPL19A; RPL6B-RPL19B; RPL6A-RPL19A
+PD,yeast,8,RPL6 - RPL21,RPL6B-RPL21A; RPL6A-RPL21A
+PD,yeast,8,RPL6 - RPL23,RPL6A-RPL23A
+PD,yeast,8,RPL6 - RPL24,RPL6B-RPL24B; RPL6B-RPL24A; RPL6A-RPL24B; RPL6A-RPL24A
+PD,yeast,8,RPL6 - RPL26L1,RPL6B-RPL26B; RPL6B-RPL26A; RPL6A-RPL26B; RPL6A-RPL26A
+PD,yeast,8,RPL6 - RPL27,RPL6B-RPL27A; RPL6A-RPL27A
+PD,yeast,8,RPL6 - RPL27A,RPL6B-RPL28; RPL6A-RPL28
+PD,yeast,8,RPL6 - RPL3,RPL6B-RPL3; RPL6A-RPL3
+PD,yeast,8,RPL6 - RPL30,RPL6B-RPL30; RPL6A-RPL30
+PD,yeast,8,RPL6 - RPL31,RPL6B-RPL31A; RPL6A-RPL31A
+PD,yeast,8,RPL6 - RPL35A,RPL6B-RPL33A; RPL6A-RPL33A
+PD,yeast,8,RPL6 - RPL38,RPL6B-RPL38; RPL6A-RPL38
+PD,yeast,8,RPL6 - RPL3L,RPL6B-RPL3; RPL6A-RPL3
+PD,yeast,8,RPL6 - RPL4,RPL6B-RPL4A; RPL6A-RPL4A
+PD,yeast,8,RPL6 - RPL5,RPL6B-RPL5; RPL6A-RPL5
+PD,yeast,8,RPL6 - RPL7,RPL6B-RPL7A; RPL6A-RPL7A
+PD,yeast,8,RPL6 - RPL7A,RPL6B-RPL8A; RPL6B-RPL8B; RPL6A-RPL8A; RPL6A-RPL8B
+PD,yeast,8,RPL6 - RPL8,RPL6B-RPL2A; RPL6A-RPL2A
+PD,yeast,8,RPL6 - RPL9,RPL6B-RPL9A; RPL6A-RPL9A
+PD,yeast,8,RPL6 - RPLP0,RPL6B-RPP0; RPL6A-RPP0
+PD,yeast,8,RPL6 - RPLP1,RPL6B-RPP2A; RPL6B-RPP2B; RPL6B-RPP1A; RPL6A-RPP2A; RPL6A-RPP2B; RPL6A-RPP1A
+PD,yeast,8,RPL6 - RPS12,RPL6A-RPS12
+PD,yeast,8,RPL6 - RPS13,RPL6A-RPS13
+PD,yeast,8,RPL6 - RPS14,RPL6A-RPS14A
+PD,yeast,8,RPL6 - RPS15A,RPL6A-RPS22A
+PD,yeast,8,RPL6 - RPS17,RPL6A-RPS17A
+PD,yeast,8,RPL6 - RPS2,RPL6A-RPS2
+PD,yeast,8,RPL6 - RPS20,RPL6A-RPS20
+PD,yeast,8,RPL6 - RPS3,RPL6A-RPS3
+PD,yeast,8,RPL6 - RPS6,RPL6A-RPS6A
+PD,yeast,8,RPL6 - RPS7,RPL6A-RPS7A
+PD,yeast,8,RPL6 - RPSA,RPL6A-RPS0A
+PD,yeast,8,RPL6 - RSL1D1,RPL6B-RPL8A; RPL6B-RPL8B; RPL6A-RPL8A; RPL6A-RPL8B
+PD,yeast,8,RIOK1 - RPS8,RIO1-RPS8B; RIO1-RPS8A
+PD,yeast,8,RPL10 - RPS8,RPL10-RPS8A
+PD,yeast,8,RPL10 - RPL14,RPL10-RPL14B; RPL10-RPL14A
+PD,yeast,8,RPS5 - RPS8,RPS5-RPS8B; RPS5-RPS8A
+PD,yeast,8,EEF1A1 - RPS8,GCD11-RPS8A
+PD,yeast,8,RPL14 - RPS8,RPL14A-RPS8A
+PD,yeast,8,RPL14 - CNBP,RPL14B-GIS2; RPL14A-GIS2
+PD,yeast,8,RPL14 - DDX54,RPL14B-DBP10; RPL14A-DBP10
+PD,yeast,8,RPL14 - GNL2,RPL14A-NOG2
+PD,yeast,8,RPL14 - NOL12,RPL14B-RRP17
+PD,yeast,8,RPL14 - NOP2,RPL14B-NOP2
+PD,yeast,8,RPL14 - RPF1,RPL14A-RPF1
+PD,yeast,8,RPL14 - RPF2,RPL14B-RPF2; RPL14A-RPF2
+PD,yeast,8,RPL14 - RPL12,RPL14B-RPL12A; RPL14A-RPL12A
+PD,yeast,8,RPL14 - RPL13,RPL14A-RPL13A; RPL14A-RPL13B
+PD,yeast,8,RPL14 - RPL13A,RPL14B-RPL16A; RPL14B-RPL16B; RPL14A-RPL16A; RPL14A-RPL16B
+PD,yeast,8,RPL14 - RPL15,RPL14B-RPL15A; RPL14A-RPL15A
+PD,yeast,8,RPL14 - RPL17,RPL14B-RPL17B; RPL14B-RPL17A; RPL14A-RPL17B; RPL14A-RPL17A
+PD,yeast,8,RPL14 - RPL18,RPL14B-RPL18A; RPL14A-RPL18A; RPL14A-RPL18B
+PD,yeast,8,RPL14 - RPL18A,RPL14B-RPL20A; RPL14A-RPL20A
+PD,yeast,8,RPL14 - RPL19,RPL14B-RPL19A; RPL14B-RPL19B; RPL14A-RPL19A; RPL14A-RPL19B
+PD,yeast,8,RPL14 - RPL21,RPL14B-RPL21A; RPL14B-RPL21B; RPL14A-RPL21A; RPL14A-RPL21B
+PD,yeast,8,RPL14 - RPL24,RPL14B-RPL24B; RPL14A-RPL24B; RPL14A-RPL24A
+PD,yeast,8,RPL14 - RPL26L1,RPL14B-RPL26B; RPL14A-RPL26B; RPL14A-RPL26A
+PD,yeast,8,RPL14 - RPL27,RPL14B-RPL27A; RPL14A-RPL27B; RPL14A-RPL27A
+PD,yeast,8,RPL14 - RPL3,RPL14B-RPL3; RPL14A-RPL3
+PD,yeast,8,RPL14 - RPL30,RPL14A-RPL30
+PD,yeast,8,RPL14 - RPL31,RPL14B-RPL31B; RPL14A-RPL31A; RPL14A-RPL31B
+PD,yeast,8,RPL14 - RPL32,RPL14B-RPL32; RPL14A-RPL32
+PD,yeast,8,RPL14 - RPL35A,RPL14B-RPL33A; RPL14A-RPL33A
+PD,yeast,8,RPL14 - RPL38,RPL14A-RPL38
+PD,yeast,8,RPL14 - RPL4,RPL14B-RPL4A; RPL14A-RPL4B; RPL14A-RPL4A
+PD,yeast,8,RPL14 - RPL5,RPL14B-RPL5; RPL14A-RPL5
+PD,yeast,8,RPL14 - RPL7,RPL14B-RPL7A; RPL14A-RPL7A; RPL14A-RPL7B
+PD,yeast,8,RPL14 - RPL7A,RPL14B-RPL8A; RPL14B-RPL8B; RPL14A-RPL8A; RPL14A-RPL8B
+PD,yeast,8,RPL14 - RPL8,RPL14B-RPL2A; RPL14A-RPL2A
+PD,yeast,8,RPL14 - RPL9,RPL14B-RPL9A; RPL14A-RPL9A
+PD,yeast,8,RPL14 - RPLP0,RPL14B-RPP0; RPL14A-RPP0
+PD,yeast,8,RPL14 - RPLP1,RPL14B-RPP2A; RPL14B-RPP2B; RPL14B-RPP1A; RPL14A-RPP2A; RPL14A-RPP2B; RPL14A-RPP1A
+PD,yeast,8,RPL14 - RPS12,RPL14A-RPS12
+PD,yeast,8,RPL14 - RPS13,RPL14A-RPS13
+PD,yeast,8,RPL14 - RPS14,RPL14A-RPS14A
+PD,yeast,8,RPL14 - RPS15A,RPL14A-RPS22A
+PD,yeast,8,RPL14 - RPS17,RPL14A-RPS17A
+PD,yeast,8,RPL14 - RPS18,RPL14A-RPS18A
+PD,yeast,8,RPL14 - RPS2,RPL14A-RPS2
+PD,yeast,8,RPL14 - RPS20,RPL14A-RPS20
+PD,yeast,8,RPL14 - RPS26,RPL14A-RPS26B
+PD,yeast,8,RPL14 - RPS3,RPL14A-RPS3
+PD,yeast,8,RPL14 - RPS6,RPL14A-RPS6A
+PD,yeast,8,RPL14 - RPS7,RPL14A-RPS7A
+PD,yeast,8,RPL14 - RPSA,RPL14A-RPS0A
+PD,yeast,8,RRS1 - RPS8,RRS1-RPS8A
+PD,yeast,8,RPL12 - RPS8,RPL12A-RPS8A
+PD,yeast,8,RPL18 - RPS8,RPL18A-RPS8A
+PD,yeast,8,RPL17 - RPS8,RPL17A-RPS8A
+PD,yeast,8,MRPL10 - RPS8,MRPL11-RPS8A
+PD,yeast,8,RPL7A - RPS8,RPL8A-RPS8A
+PD,yeast,8,RPL30 - RPS8,RPL30-RPS8A
+PD,yeast,8,UTP23 - RPS8,UTP23-RPS8A
+PD,yeast,8,RPS29 - RPS8,RPS29A-RPS8B; RPS29A-RPS8A; RPS29B-RPS8A
+PD,yeast,8,RPS4X - RPS8,RPS4A-RPS8B; RPS4A-RPS8A; RPS4B-RPS8A
+PD,yeast,8,RPS7 - RPS8,RPS7A-RPS8B; RPS7A-RPS8A; RPS7B-RPS8B; RPS7B-RPS8A
+PD,yeast,8,MRPL3 - RPS8,MRPL9-RPS8A
+PD,yeast,8,RPS8 - CNBP,RPS8B-GIS2; RPS8A-GIS2
+PD,yeast,8,RPS8 - DAP3,RPS8A-RSM23
+PD,yeast,8,RPS8 - DKC1,RPS8A-CBF5
+PD,yeast,8,RPS8 - EBNA1BP2,RPS8A-EBP2
+PD,yeast,8,RPS8 - G3BP1,RPS8B-BRE5; RPS8A-BRE5
+PD,yeast,8,RPS8 - KRR1,RPS8B-KRR1; RPS8A-KRR1
+PD,yeast,8,RPS8 - MRPL17,RPS8A-MRPL8
+PD,yeast,8,RPS8 - MRPL2,RPS8A-RML2
+PD,yeast,8,RPS8 - MRPL23,RPS8A-MRP20
+PD,yeast,8,RPS8 - MRPL28,RPS8A-MRPL24
+PD,yeast,8,RPS8 - MRPL46,RPS8A-MRPL17
+PD,yeast,8,RPS8 - MRPL47,RPS8A-MRPL4
+PD,yeast,8,RPS8 - MRPS35,RPS8A-RSM24
+PD,yeast,8,RPS8 - MRPS5,RPS8A-MRPS5
+PD,yeast,8,RPS8 - MYBBP1A,RPS8A-POL5
+PD,yeast,8,RPS8 - NAT10,RPS8A-KRE33
+PD,yeast,8,RPS8 - NOL10,RPS8A-ENP2
+PD,yeast,8,RPS8 - NOP56,RPS8A-NOP56
+PD,yeast,8,RPS8 - OTUD6B,RPS8B-OTU2; RPS8A-OTU2
+PD,yeast,8,RPS8 - RBM19,RPS8A-MRD1
+PD,yeast,8,RPS8 - RPL10L,RPS8A-RPL10
+PD,yeast,8,RPS8 - RPL11,RPS8A-MRPL7
+PD,yeast,8,RPS8 - RPL15,RPS8A-RPL15A
+PD,yeast,8,RPS8 - RPL18A,RPS8A-RPL20A
+PD,yeast,8,RPS8 - RPL19,RPS8A-RPL19A
+PD,yeast,8,RPS8 - RPL21,RPS8A-RPL21A
+PD,yeast,8,RPS8 - RPL23,RPS8A-RPL23A
+PD,yeast,8,RPS8 - RPL24,RPS8B-RPL24A; RPS8A-RPL24A
+PD,yeast,8,RPS8 - RPL26,RPS8A-RPL26A
+PD,yeast,8,RPS8 - RPL26L1,RPS8A-RPL26A
+PD,yeast,8,RPS8 - RPL27,RPS8A-RPL27A
+PD,yeast,8,RPS8 - RPL27A,RPS8A-RPL28
+PD,yeast,8,RPS8 - RPL3,RPS8A-RPL3
+PD,yeast,8,RPS8 - RPL31,RPS8A-RPL31A
+PD,yeast,8,RPS8 - RPL32,RPS8A-RPL32
+PD,yeast,8,RPS8 - RPL35,RPS8A-RPL35A
+PD,yeast,8,RPS8 - RPL4,RPS8A-RPL4A
+PD,yeast,8,RPS8 - RPL5,RPS8A-RPL5
+PD,yeast,8,RPS8 - RPL8,RPS8A-RPL2A
+PD,yeast,8,RPS8 - RPL9,RPS8A-RPL9A
+PD,yeast,8,RPS8 - RPLP0,RPS8A-RPP0
+PD,yeast,8,RPS8 - RPS12,RPS8B-RPS12; RPS8A-RPS12
+PD,yeast,8,RPS8 - RPS13,RPS8B-RPS13; RPS8A-RPS13
+PD,yeast,8,RPS8 - RPS14,RPS8B-RPS14A; RPS8A-RPS14A
+PD,yeast,8,RPS8 - RPS15A,RPS8B-RPS22A; RPS8A-RPS22A
+PD,yeast,8,RPS8 - RPS16,RPS8B-RPS16A; RPS8A-RPS16A
+PD,yeast,8,RPS8 - RPS17,RPS8B-RPS17A; RPS8A-RPS17A; RPS8A-RPS17B
+PD,yeast,8,RPS8 - RPS18,RPS8B-RPS18A; RPS8A-RPS18A
+PD,yeast,8,RPS8 - RPS2,RPS8B-RPS2; RPS8A-RPS2
+PD,yeast,8,RPS8 - RPS20,RPS8B-RPS20; RPS8A-RPS20
+PD,yeast,8,RPS8 - RPS21,RPS8B-RPS21B; RPS8A-RPS21B
+PD,yeast,8,RPS8 - RPS23,RPS8B-RPS23A; RPS8A-RPS23A
+PD,yeast,8,RPS8 - RPS24,RPS8B-RPS24A; RPS8A-RPS24A; RPS8A-RPS24B
+PD,yeast,8,RPS8 - RPS25,RPS8B-RPS25A; RPS8A-RPS25B; RPS8A-RPS25A
+PD,yeast,8,RPS8 - RPS26,RPS8A-RPS26A
+PD,yeast,8,RPS8 - RPS28,RPS8A-RPS28A
+PD,yeast,8,RPS8 - RPS3,RPS8B-RPS3; RPS8A-RPS3
+PD,yeast,8,RPS8 - RPS6,RPS8B-RPS6A; RPS8A-RPS6A; RPS8A-RPS6B
+PD,yeast,8,RPS8 - RPSA,RPS8B-RPS0B; RPS8B-RPS0A; RPS8A-RPS0B; RPS8A-RPS0A
+PD,yeast,8,RPS8 - TSR1,RPS8B-TSR1; RPS8A-TSR1
+PD,yeast,9,VPS26A - VPS35,PEP8-VPS35
+PD,yeast,9,VPS29 - VPS35,VPS29-VPS35
+PD,yeast,9,VPS35 - VPS26B,VPS35-PEP8
+PD,yeast,10,OMA1 - HSPA9,OMA1-SSC1
+PD,yeast,10,HSPA9 - ACO2,SSC1-ACO1
+PD,yeast,10,HSPA9 - DNAJC19,SSC1-PAM18
+PD,yeast,10,HSPA9 - DNLZ,SSC1-ZIM17
+PD,yeast,10,HSPA9 - EIF4E,SSC1-CDC33
+PD,yeast,10,HSPA9 - GAPDH,SSC1-TDH2; SSC1-TDH3; SSC1-TDH1
+PD,yeast,10,HSPA9 - GRPEL1,SSC1-MGE1; ECM10-MGE1
+PD,yeast,10,HSPA9 - HSPD1,SSC1-HSP60
+PD,yeast,10,HSPA9 - PRDX3,SSC1-TSA1
+PD,yeast,10,HSPA9 - TIMM44,SSC1-TIM44
+PD,yeast,10,HSPA9 - TRAP1,SSC1-HSP82; SSC1-HSC82
+PD,yeast,10,ENO1 - ENO2,ENO1-ENO2; ENO2-ENO1; ENO2-ERR1; ERR1-ENO2
+PD,yeast,10,ENO2 - ENO3,ENO1-ENO2; ENO2-ENO1; ENO2-ERR1; ERR1-ENO2
+PD,yeast,10,ALDH1B1 - ALDH2,ALD3-ALD2; ALD4-ALD5; ALD2-ALD3; ALD5-ALD4
+PD,yeast,10,ALDH1A2 - ALDH2,ALD3-ALD2; ALD4-ALD5; ALD2-ALD3; ALD5-ALD4
+PD,yeast,10,HSPD1 - ALDH2,HSP60-ALD4
+PD,yeast,10,LDHB - ALDH2,MDH1-ALD4; MDH1-ALD5
+PD,yeast,10,ALDH1A1 - ALDH2,ALD3-ALD2; ALD4-ALD5; ALD2-ALD3; ALD5-ALD4
+PD,yeast,10,ALDH2 - ALDH6A1,ALD3-ALD2; ALD2-ALD3; ALD5-ALD4
+PD,yeast,13,SYNJ1 - AMPH,INP53-RVS167
+PD,yeast,13,GAK - CLTC,SWA2-CHC1
+PD,yeast,14,HSPH1 - HSPA1A,SSE2-SSE1; SSE1-SSE2
+PD,yeast,14,PSMD14 - HSPA1A,RPN11-SSE1
+PD,yeast,14,TOMM34 - HSPA1A,STI1-SSE2; STI1-SSE1
+PD,yeast,14,CTPS1 - HSPA1A,URA7-SSE1
+PD,yeast,14,MAPK7 - HSPA1A,SLT2-SSE1
+PD,yeast,14,HSPA1L - HSPA1A,LHS1-SSE1; SSE2-SSE1; SSE1-SSE2
+PD,yeast,17,HMGCR - INSIG1,HMG1-NSG1; HMG2-NSG1
+PD,yeast,18,RPS6KA1 - MAPK3,KIN82-SKY1
+PD,yeast,18,ATF2 - MAPK1,SKO1-SLT2
+PD,yeast,18,RPS6KA6 - MAPK3,KIN82-SKY1
+PD,yeast,18,RPS6KA3 - MAPK3,KIN82-SKY1
+PD,yeast,18,MAP2K2 - MAPK1,MKK1-SLT2; MKK2-KDX1; MKK2-SLT2
+PD,yeast,18,MAP2K2 - MAPK3,MKK1-SLT2; MKK2-KDX1; MKK2-SLT2
+PD,yeast,18,RPS6KA2 - MAPK3,KIN82-SKY1
+PD,yeast,18,FBP1 - USP7,FBP1-UBP14
+PD,fly,2,RFC1 - PCNA,Gnf1-PCNA
+PD,fly,2,RFC1 - RFC2,Gnf1-RfC4
+PD,fly,2,RFC1 - RFC3,Gnf1-RfC38
+PD,fly,2,RFC1 - RFC4,Gnf1-CG8142
+PD,fly,2,RFC1 - RFC5,Gnf1-RfC3
+PD,fly,2,RFC1 - XRCC5,Gnf1-Ku80
+PD,fly,2,RFC1 - XRCC6,Gnf1-Irbp
+PD,fly,2,MBD3L1 - MTA1,MBD-like-MTA1-like
+PD,fly,2,MBD3L2 - MTA1,MBD-like-MTA1-like
+PD,fly,2,MTA1 - MBD2,MTA1-like-MBD-like
+PD,fly,2,MTA1 - MBD3,MTA1-like-MBD-like
+PD,fly,3,BAG5 - HSPA2,stv-Hsc70-4
+PD,fly,4,TOMM20 - PINK1,Tom20-Pink1
+PD,fly,4,PINK1 - HTRA2,Pink1-HtrA2
+PD,fly,4,PINK1 - CLUH,Pink1-clu
+PD,fly,4,PINK1 - PGAM5,Pink1-Pgam5
+PD,fly,4,HTRA2 - OPA1,HtrA2-Opa1
+PD,fly,5,SQSTM1 - HTT,ref(2)P-htt
+PD,fly,7,MED12 - VDR,kto-EcR
+PD,fly,7,MED14 - VDR,MED14-EcR
+PD,fly,7,RXRB - VDR,usp-EcR
+PD,fly,7,NCOA1 - VDR,tai-EcR
+PD,fly,7,VDR - CCND3,EcR-CycD; EcR-CycA
+PD,fly,7,VDR - COPS2,EcR-alien
+PD,fly,7,VDR - CREBBP,EcR-nej
+PD,fly,7,VDR - HNF4A,EcR-usp
+PD,fly,7,VDR - MED1,EcR-MED1
+PD,fly,7,VDR - MED13,EcR-skd
+PD,fly,7,VDR - NCOA2,EcR-tai
+PD,fly,7,VDR - NCOA3,EcR-tai
+PD,fly,7,VDR - RXRA,EcR-usp
+PD,fly,7,VDR - RXRG,EcR-usp
+PD,fly,7,PSMC5 - ESR2,Rpt6-ERR
+PD,fly,7,NR4A2 - RXRA,Hr38-usp
+PD,fly,8,RPS11 - RPS8,RpS11-RpS8
+PD,fly,8,RPS11 - RPL14,RpS11-RpL14
+PD,fly,8,RPS11 - RPL6,RpS11-RpL6
+PD,fly,8,RPLP2 - RPS8,RpLP2-RpS8
+PD,fly,8,RPLP2 - RPL14,RpLP2-RpL14
+PD,fly,8,RPLP2 - RPL6,RpLP2-RpL6
+PD,fly,8,RPS9 - RPS8,RpS9-RpS8
+PD,fly,8,RPS9 - RPL14,RpS9-RpL14
+PD,fly,8,RPS9 - RPL6,RpS9-RpL6
+PD,fly,8,RPL6 - RPS8,RpL6-RpS8
+PD,fly,8,RPL6 - RPL14,RpL6-RpL14
+PD,fly,8,RPL6 - RPL10,RpL6-RpL10
+PD,fly,8,RPL6 - RPL10A,RpL6-RpL10Ab
+PD,fly,8,RPL6 - RPL11,RpL6-RpL11
+PD,fly,8,RPL6 - RPL12,RpL6-RpL12
+PD,fly,8,RPL6 - RPL13,RpL6-RpL13
+PD,fly,8,RPL6 - RPL15,RpL6-RpL15
+PD,fly,8,RPL6 - RPL17,RpL6-RpL17
+PD,fly,8,RPL6 - RPL18,RpL6-RpL18
+PD,fly,8,RPL6 - RPL18A,RpL6-RpL18A
+PD,fly,8,RPL6 - RPL19,RpL6-RpL19
+PD,fly,8,RPL6 - RPL21,RpL6-RpL21
+PD,fly,8,RPL6 - RPL23,RpL6-RpL23
+PD,fly,8,RPL6 - RPL24,RpL6-RpL24
+PD,fly,8,RPL6 - RPL26L1,RpL6-RpL26
+PD,fly,8,RPL6 - RPL27,RpL6-RpL27
+PD,fly,8,RPL6 - RPL27A,RpL6-RpL27A
+PD,fly,8,RPL6 - RPL28,RpL6-RpL28
+PD,fly,8,RPL6 - RPL29,RpL6-RpL29
+PD,fly,8,RPL6 - RPL3,RpL6-RpL3
+PD,fly,8,RPL6 - RPL30,RpL6-RpL30
+PD,fly,8,RPL6 - RPL31,RpL6-RpL31
+PD,fly,8,RPL6 - RPL35,RpL6-RpL35
+PD,fly,8,RPL6 - RPL35A,RpL6-RpL35A
+PD,fly,8,RPL6 - RPL38,RpL6-RpL38
+PD,fly,8,RPL6 - RPL3L,RpL6-RpL3
+PD,fly,8,RPL6 - RPL4,RpL6-RpL4
+PD,fly,8,RPL6 - RPL5,RpL6-RpL5
+PD,fly,8,RPL6 - RPL7,RpL6-RpL7
+PD,fly,8,RPL6 - RPL7A,RpL6-RpL7A
+PD,fly,8,RPL6 - RPL8,RpL6-RpL8
+PD,fly,8,RPL6 - RPL9,RpL6-RpL9
+PD,fly,8,RPL6 - RPLP0,RpL6-RpLP0
+PD,fly,8,RPL6 - RPLP1,RpL6-RpLP1
+PD,fly,8,RPL6 - RPS12,RpL6-RpS12
+PD,fly,8,RPL6 - RPS13,RpL6-RpS13
+PD,fly,8,RPL6 - RPS14,RpL6-RpS14a; RpL6-RpS14b
+PD,fly,8,RPL6 - RPS15,RpL6-RpS15
+PD,fly,8,RPL6 - RPS15A,RpL6-RpS15Aa
+PD,fly,8,RPL6 - RPS16,RpL6-RpS16
+PD,fly,8,RPL6 - RPS17,RpL6-RpS17
+PD,fly,8,RPL6 - RPS2,RpL6-RpS2
+PD,fly,8,RPL6 - RPS20,RpL6-RpS20
+PD,fly,8,RPL6 - RPS23,RpL6-RpS23
+PD,fly,8,RPL6 - RPS25,RpL6-RpS25
+PD,fly,8,RPL6 - RPS26,RpL6-RpS26
+PD,fly,8,RPL6 - RPS3,RpL6-RpS3
+PD,fly,8,RPL6 - RPS3A,RpL6-RpS3A
+PD,fly,8,RPL6 - RPS4X,RpL6-RpS4
+PD,fly,8,RPL6 - RPS5,RpL6-RpS5a
+PD,fly,8,RPL6 - RPS6,RpL6-RpS6
+PD,fly,8,RPL6 - RPS7,RpL6-RpS7
+PD,fly,8,RPL6 - RPSA,RpL6-sta
+PD,fly,8,RPL6 - RSL1D1,RpL6-RpL7A
+PD,fly,8,RPL10 - RPS8,RpL10-RpS8
+PD,fly,8,RPL10 - RPL14,RpL10-RpL14
+PD,fly,8,RPS5 - RPS8,RpS5a-RpS8
+PD,fly,8,RPS5 - RPL14,RpS5a-RpL14
+PD,fly,8,RPL14 - RPS8,RpL14-RpS8
+PD,fly,8,RPL14 - RPL10A,RpL14-RpL10Ab
+PD,fly,8,RPL14 - RPL11,RpL14-RpL11
+PD,fly,8,RPL14 - RPL12,RpL14-RpL12
+PD,fly,8,RPL14 - RPL13,RpL14-RpL13
+PD,fly,8,RPL14 - RPL13A,RpL14-RpL13A
+PD,fly,8,RPL14 - RPL15,RpL14-RpL15
+PD,fly,8,RPL14 - RPL17,RpL14-RpL17
+PD,fly,8,RPL14 - RPL18,RpL14-RpL18
+PD,fly,8,RPL14 - RPL18A,RpL14-RpL18A
+PD,fly,8,RPL14 - RPL19,RpL14-RpL19
+PD,fly,8,RPL14 - RPL21,RpL14-RpL21
+PD,fly,8,RPL14 - RPL23,RpL14-RpL23
+PD,fly,8,RPL14 - RPL24,RpL14-RpL24
+PD,fly,8,RPL14 - RPL26L1,RpL14-RpL26
+PD,fly,8,RPL14 - RPL27,RpL14-RpL27
+PD,fly,8,RPL14 - RPL27A,RpL14-RpL27A
+PD,fly,8,RPL14 - RPL28,RpL14-RpL28
+PD,fly,8,RPL14 - RPL3,RpL14-RpL3
+PD,fly,8,RPL14 - RPL30,RpL14-RpL30
+PD,fly,8,RPL14 - RPL31,RpL14-RpL31
+PD,fly,8,RPL14 - RPL35,RpL14-RpL35
+PD,fly,8,RPL14 - RPL35A,RpL14-RpL35A
+PD,fly,8,RPL14 - RPL38,RpL14-RpL38
+PD,fly,8,RPL14 - RPL4,RpL14-RpL4
+PD,fly,8,RPL14 - RPL5,RpL14-RpL5
+PD,fly,8,RPL14 - RPL7,RpL14-RpL7
+PD,fly,8,RPL14 - RPL7A,RpL14-RpL7A
+PD,fly,8,RPL14 - RPL8,RpL14-RpL8
+PD,fly,8,RPL14 - RPL9,RpL14-RpL9
+PD,fly,8,RPL14 - RPLP0,RpL14-RpLP0
+PD,fly,8,RPL14 - RPLP1,RpL14-RpLP1
+PD,fly,8,RPL14 - RPS12,RpL14-RpS12
+PD,fly,8,RPL14 - RPS13,RpL14-RpS13
+PD,fly,8,RPL14 - RPS14,RpL14-RpS14a; RpL14-RpS14b
+PD,fly,8,RPL14 - RPS15A,RpL14-RpS15Aa
+PD,fly,8,RPL14 - RPS16,RpL14-RpS16
+PD,fly,8,RPL14 - RPS17,RpL14-RpS17
+PD,fly,8,RPL14 - RPS18,RpL14-RpS18
+PD,fly,8,RPL14 - RPS2,RpL14-RpS2
+PD,fly,8,RPL14 - RPS20,RpL14-RpS20
+PD,fly,8,RPL14 - RPS23,RpL14-RpS23
+PD,fly,8,RPL14 - RPS24,RpL14-RpS24
+PD,fly,8,RPL14 - RPS25,RpL14-RpS25
+PD,fly,8,RPL14 - RPS26,RpL14-RpS26
+PD,fly,8,RPL14 - RPS3,RpL14-RpS3
+PD,fly,8,RPL14 - RPS3A,RpL14-RpS3A
+PD,fly,8,RPL14 - RPS4X,RpL14-RpS4
+PD,fly,8,RPL14 - RPS6,RpL14-RpS6
+PD,fly,8,RPL14 - RPS7,RpL14-RpS7
+PD,fly,8,RPL14 - RPSA,RpL14-sta
+PD,fly,8,RPL12 - RPS8,RpL12-RpS8
+PD,fly,8,RPL18 - RPS8,RpL18-RpS8
+PD,fly,8,RPL17 - RPS8,RpL17-RpS8
+PD,fly,8,RPL7A - RPS8,RpL7A-RpS8
+PD,fly,8,RPL30 - RPS8,RpL30-RpS8
+PD,fly,8,RPS29 - RPS8,RpS29-RpS8
+PD,fly,8,RPS4X - RPS8,RpS4-RpS8
+PD,fly,8,RPS7 - RPS8,RpS7-RpS8
+PD,fly,8,RPS8 - RPL10A,RpS8-RpL10Ab
+PD,fly,8,RPS8 - RPL10L,RpS8-RpL10
+PD,fly,8,RPS8 - RPL11,RpS8-RpL11
+PD,fly,8,RPS8 - RPL13,RpS8-RpL13
+PD,fly,8,RPS8 - RPL15,RpS8-RpL15
+PD,fly,8,RPS8 - RPL18A,RpS8-RpL18A
+PD,fly,8,RPS8 - RPL19,RpS8-RpL19
+PD,fly,8,RPS8 - RPL21,RpS8-RpL21
+PD,fly,8,RPS8 - RPL23,RpS8-RpL23
+PD,fly,8,RPS8 - RPL24,RpS8-RpL24
+PD,fly,8,RPS8 - RPL26,RpS8-RpL26
+PD,fly,8,RPS8 - RPL26L1,RpS8-RpL26
+PD,fly,8,RPS8 - RPL27,RpS8-RpL27
+PD,fly,8,RPS8 - RPL27A,RpS8-RpL27A
+PD,fly,8,RPS8 - RPL3,RpS8-RpL3
+PD,fly,8,RPS8 - RPL31,RpS8-RpL31
+PD,fly,8,RPS8 - RPL35,RpS8-RpL35
+PD,fly,8,RPS8 - RPL4,RpS8-RpL4
+PD,fly,8,RPS8 - RPL5,RpS8-RpL5
+PD,fly,8,RPS8 - RPL7,RpS8-RpL7
+PD,fly,8,RPS8 - RPL8,RpS8-RpL8
+PD,fly,8,RPS8 - RPL9,RpS8-RpL9
+PD,fly,8,RPS8 - RPLP0,RpS8-RpLP0
+PD,fly,8,RPS8 - RPLP1,RpS8-RpLP1
+PD,fly,8,RPS8 - RPS12,RpS8-RpS12
+PD,fly,8,RPS8 - RPS13,RpS8-RpS13
+PD,fly,8,RPS8 - RPS14,RpS8-RpS14a; RpS8-RpS14b
+PD,fly,8,RPS8 - RPS15,RpS8-RpS15
+PD,fly,8,RPS8 - RPS15A,RpS8-RpS15Aa
+PD,fly,8,RPS8 - RPS16,RpS8-RpS16
+PD,fly,8,RPS8 - RPS17,RpS8-RpS17
+PD,fly,8,RPS8 - RPS18,RpS8-RpS18
+PD,fly,8,RPS8 - RPS2,RpS8-RpS2
+PD,fly,8,RPS8 - RPS20,RpS8-RpS20
+PD,fly,8,RPS8 - RPS21,RpS8-RpS21
+PD,fly,8,RPS8 - RPS23,RpS8-RpS23
+PD,fly,8,RPS8 - RPS24,RpS8-RpS24
+PD,fly,8,RPS8 - RPS25,RpS8-RpS25
+PD,fly,8,RPS8 - RPS26,RpS8-RpS26
+PD,fly,8,RPS8 - RPS28,RpS8-RpS28b
+PD,fly,8,RPS8 - RPS3,RpS8-RpS3
+PD,fly,8,RPS8 - RPS3A,RpS8-RpS3A
+PD,fly,8,RPS8 - RPS6,RpS8-RpS6
+PD,fly,8,RPS8 - RPSA,RpS8-sta
+PD,fly,9,VPS29 - VPS35,Vps29-Vps35
+PD,fly,9,SNX3 - VPS35,Snx3-Vps35
+PD,fly,9,VPS35 - VPS26B,Vps35-Vps26
+PD,fly,10,TAGLN2 - GSTO1,Chd64-GstE6
+PD,fly,10,HSPA9 - DNLZ,Hsc70-5-CG12379
+PD,fly,10,ENO2 - ARHGDIA,Eno-RhoGDI
+PD,fly,11,EN1 - TLE3,inv-gro; en-gro
+PD,fly,13,TNK2 - HSP90AB1,Ack-Hsp83
+PD,fly,13,TNK2 - GRB2,Ack-drk
+PD,fly,13,TNK2 - NCK1,Ack-dock
+PD,fly,13,TNK2 - NCK2,Ack-dock
+PD,fly,13,GRK6 - DDB1,Gprk2-pic
+PD,fly,13,SYNJ1 - GRB2,Synj-drk
+PD,fly,13,SYNJ1 - ITSN1,Synj-Dap160
+PD,fly,14,TARDBP - FUS,TBPH-caz
+PD,fly,15,JUN - CREB1,Jra-Atf6
+PD,fly,17,GGA2 - IGF2R,Gga-Lerp
+PD,fly,17,IGF2R - GGA1,Lerp-Gga
+PD,fly,17,IGF2R - GGA3,Lerp-Gga
+PD,fly,17,RAB7A - VPS13C,Rab7-Vps13
+PD,fly,18,MAP2K2 - MAPK1,Dsor1-rl
+PD,fly,18,MKNK2 - MAPK1,Lk6-rl
+PD,fly,18,EYA4 - MAPK3,eya-nmo
+PD,fly,18,MAPK1 - cic,rl-cic
+COVID,mouse,0,LRP8 - APOE,Lrp8-Apoe
+COVID,mouse,0,APOE - LONP1,Apoe-Lonp1
+COVID,mouse,0,APOE - MAPT,Apoe-Mapt
+COVID,mouse,0,APOE - ST13,Apoe-St13
+COVID,mouse,0,C3 - CFI,C3-Cfi
+COVID,mouse,2,OS9 - BSG,Os9-Bsg
+COVID,mouse,3,TNFAIP3 - TNF,Tnfaip3-Tnf
+COVID,mouse,3,TNFRSF1B - TNF,Tnfrsf1b-Tnf
+COVID,mouse,3,TRADD - TNF,Tradd-Tnf
+COVID,mouse,3,RIPK1 - TNF,Ripk1-Tnf
+COVID,mouse,3,TBK1 - TNF,Tbk1-Tnf
+COVID,mouse,3,TNF - IKBKE,Tnf-Ikbke
+COVID,mouse,3,TNF - IKBKG,Tnf-Ikbkg
+COVID,mouse,3,TNF - RNF31,Tnf-Rnf31
+COVID,mouse,3,TNF - SHARPIN,Tnf-Sharpin
+COVID,mouse,3,TNF - TNFRSF1A,Tnf-Tnfrsf1a
+COVID,mouse,3,TNF - TNIP1,Tnf-Tnip1
+COVID,mouse,3,TNF - ZFP36,Tnf-Zfp36
+COVID,mouse,6,CASP1 - IL1B,Casp1-Il1b
+COVID,mouse,6,IBTK - BTK,Ibtk-Btk
+COVID,mouse,6,HCK - CBL,Hck-Cbl
+COVID,mouse,6,ARID3A - BTK,Arid3a-Btk
+COVID,mouse,6,BLNK - BTK,Blnk-Btk
+COVID,mouse,6,IL1B - CASP8,Il1b-Casp8
+COVID,mouse,10,MYH9 - ACE,Myh9-Ace
+COVID,mouse,14,SDCBP - LZTFL1,Sdcbp-Lztfl1
+COVID,mouse,15,SIRT1 - BCL11A,Sirt1-Bcl11a
+COVID,mouse,15,NR2E1 - BCL11A,Nr2e1-Bcl11a
+COVID,fly,2,SLC16A4 - BSG,out-Bsg; Sln-Bsg
+COVID,fly,2,BSG - SLC16A1,Bsg-out; Bsg-Sln
+BC,mouse,0,CIT - RHOA,Cit-Rhoa
+BC,mouse,0,GORASP2 - NQO2,Gorasp2-Nqo2
+BC,mouse,0,RHOA - ARHGAP1,Rhoa-Arhgap1
+BC,mouse,0,RHOA - ARHGAP32,Rhoa-Arhgap32
+BC,mouse,0,RHOA - ARHGDIA,Rhoa-Arhgdia
+BC,mouse,0,RHOA - ARHGEF2,Rhoa-Arhgef2
+BC,mouse,0,RHOA - DGKQ,Rhoa-Dgkq
+BC,mouse,0,RHOA - Plekhg5,Rhoa-Plekhg5
+BC,mouse,0,RHOA - RTKN,Rhoa-Rtkn
+BC,mouse,0,RHOA - SRGAP1,Rhoa-Srgap1
+BC,mouse,1,SMARCA2 - BRCA1,Smarca2-Brca1
+BC,mouse,1,MORF4L1 - BRCA2,Morf4l1-Brca2
+BC,mouse,1,MORF4L1 - PALB2,Morf4l1-Palb2
+BC,mouse,1,KEAP1 - BRCA2,Keap1-Brca2
+BC,mouse,1,KEAP1 - PALB2,Keap1-Palb2
+BC,mouse,1,PALB2 - BRCA2,Palb2-Brca2
+BC,mouse,1,PALB2 - BRCA1,Palb2-Brca1
+BC,mouse,1,BRCA1 - BRCA2,Brca1-Brca2
+BC,mouse,1,BRCA1 - ACACA,Brca1-Acaca
+BC,mouse,1,BRCA1 - BARD1,Brca1-Bard1
+BC,mouse,1,BRCA1 - EWSR1,Brca1-Ewsr1
+BC,mouse,1,BRCA1 - EZH2,Brca1-Ezh2
+BC,mouse,1,BRCA1 - POU2F1,Brca1-Pou2f1
+BC,mouse,1,BRCC3 - BRCA2,Brcc3-Brca2
+BC,mouse,1,MCPH1 - BRCA2,Mcph1-Brca2
+BC,mouse,1,PDS5B - BRCA2,Pds5b-Brca2
+BC,mouse,1,MORF4L2 - BRCA2,Morf4l2-Brca2
+BC,mouse,1,BRCA2 - CDK2,Brca2-Cdk2
+BC,mouse,2,HIPK2 - TP53,Hipk2-Trp53
+BC,mouse,2,NDN - TP53,Ndn-Trp53
+BC,mouse,2,BCL2L1 - TP53,Bcl2l1-Trp53
+BC,mouse,2,UHRF2 - TP53,Uhrf2-Trp53
+BC,mouse,2,ANKRD2 - TP53,Ankrd2-Trp53
+BC,mouse,2,MDM4 - TP53,Mdm4-Trp53
+BC,mouse,2,RPL11 - TP53,Rpl11-Trp53
+BC,mouse,2,TMUB1 - TP53,Tmub1-Trp53
+BC,mouse,2,DAPK1 - TP53,Dapk1-Trp53
+BC,mouse,2,CCNG1 - TP53,Ccng1-Trp53
+BC,mouse,2,PIAS2 - TP53,Pias2-Trp53
+BC,mouse,2,CUL9 - TP53,Cul9-Trp53
+BC,mouse,2,CUL7 - TP53,Cul7-Trp53
+BC,mouse,2,RNF128 - TP53,Rnf128-Trp53
+BC,mouse,3,GAB1 - MET,Gab1-Met
+BC,mouse,3,SRC - EGFR,Src-Egfr
+BC,mouse,3,ERBB2 - EGFR,Erbb2-Egfr
+BC,mouse,3,IRS1 - PIK3CA,Irs1-Pik3ca
+BC,mouse,3,FGD5 - EGFR,Fgd5-Egfr
+BC,mouse,3,PTPRA - EGFR,Ptpra-Egfr
+BC,mouse,3,LRP1 - EGFR,Lrp1-Egfr
+BC,mouse,3,AP2A1 - EGFR,Ap2a1-Egfr
+BC,mouse,3,EGFR - ARHGEF7,Egfr-Arhgef7
+BC,mouse,3,EGFR - CBL,Egfr-Cbl
+BC,mouse,3,EGFR - EPS15,Egfr-Eps15
+BC,mouse,3,EGFR - GRB2,Egfr-Grb2
+BC,mouse,3,EGFR - NTRK2,Egfr-Ntrk2
+BC,mouse,3,EGFR - PTPN11,Egfr-Ptpn11
+BC,mouse,3,EGFR - VAV1,Egfr-Vav1
+BC,mouse,3,GRB7 - RET,Grb7-Ret
+BC,mouse,3,GRB2 - MET,Grb2-Met
+BC,mouse,3,MET - GRIN2B,Met-Grin2b
+BC,mouse,3,PIK3CA - PIK3R1,Pik3ca-Pik3r1
+BC,mouse,3,ALK - RET,Alk-Ret
+BC,mouse,3,RET - DOK1,Ret-Dok1
+BC,mouse,3,RET - GFRA1,Ret-Gfra1
+BC,mouse,3,RET - PIK3R1,Ret-Pik3r1
+BC,mouse,4,DDB1 - STAT1,Ddb1-Stat1
+BC,mouse,4,IFNGR1 - STAT1,Ifngr1-Stat1
+BC,mouse,4,ATF3 - STAT1,Atf3-Stat1
+BC,mouse,4,JAK1 - STAT1,Jak1-Stat1
+BC,mouse,4,Rnf220 - STAT1,Rnf220-Stat1
+BC,mouse,5,FASN - CAV1,Fasn-Cav1
+BC,mouse,5,CAV1 - ATG5,Cav1-Atg5
+BC,mouse,5,CAV1 - FLOT1,Cav1-Flot1
+BC,mouse,5,IKBKB - TFRC,Ikbkb-Tfrc
+BC,mouse,5,TFRC - GABARAP,Tfrc-Gabarap
+BC,mouse,6,POU4F1 - ESR1,Pou4f1-Esr1
+BC,mouse,6,GRIP1 - ESR1,Grip1-Esr1
+BC,mouse,6,POU4F2 - ESR1,Pou4f2-Esr1
+BC,mouse,6,CREBBP - ESR1,Crebbp-Esr1
+BC,mouse,6,SIRT1 - HNF1A,Sirt1-Hnf1a
+BC,mouse,6,HNF1A - HNF1B,Hnf1a-Hnf1b
+BC,mouse,6,HNF1A - PCBD1,Hnf1a-Pcbd1
+BC,mouse,6,HNF1A - PCBD2,Hnf1a-Pcbd2
+BC,mouse,6,THRB - ACTA2,Thrb-Acta2
+BC,mouse,6,THRB - NCOA6,Thrb-Ncoa6
+BC,mouse,6,THRB - NCOR1,Thrb-Ncor1
+BC,mouse,6,PPP1CC - ESR1,Ppp1cc-Esr1
+BC,mouse,6,SMARCE1 - ESR1,Smarce1-Esr1
+BC,mouse,6,KDM4B - ESR1,Kdm4b-Esr1
+BC,mouse,6,EP300 - ESR1,Ep300-Esr1
+BC,mouse,6,NCOA6 - ESR1,Ncoa6-Esr1
+BC,mouse,6,ESR1 - NCOA2,Esr1-Ncoa2
+BC,mouse,7,PSEN1 - CDH1,Psen1-Cdh1
+BC,mouse,7,MAPRE2 - APC,Mapre2-Apc
+BC,mouse,7,AXIN1 - APC,Axin1-Apc
+BC,mouse,7,APC - CSNK1E,Apc-Csnk1e
+BC,mouse,7,APC - GSK3B,Apc-Gsk3b
+BC,mouse,7,APC - KDM1A,Apc-Kdm1a
+BC,mouse,7,CDH1 - CTNND1,Cdh1-Ctnnd1
+BC,mouse,8,PSMD10 - CDK4,Psmd10-Cdk4
+BC,mouse,8,CEBPA - CDK4,Cebpa-Cdk4
+BC,mouse,8,CCND2 - CDK4,Ccnd2-Cdk4
+BC,mouse,8,CDKN1A - CDK4,Cdkn1a-Cdk4
+BC,mouse,8,CCND3 - CDK4,Ccnd3-Cdk4
+BC,mouse,8,CDK4 - CDKN1B,Cdk4-Cdkn1b
+BC,mouse,8,CDK4 - CDKN2D,Cdk4-Cdkn2d
+BC,mouse,8,CDK4 - RB1,Cdk4-Rb1
+BC,mouse,12,RAD51B - XRCC2,Rad51b-Xrcc2
+BC,mouse,12,RAD51D - RAD51C,Rad51d-Rad51c
+BC,mouse,12,RAD51D - RNF138,Rad51d-Rnf138
+BC,mouse,12,RAD51D - XRCC2,Rad51d-Xrcc2
+BC,mouse,13,MAPT - BIN1,Mapt-Bin1
+BC,mouse,13,ITCH - BIN1,Itch-Bin1
+BC,mouse,13,RIN3 - BIN1,Rin3-Bin1
+BC,mouse,13,Dnm1 - BIN1,Dnm1-Bin1
+BC,mouse,13,MTM1 - BIN1,Mtm1-Bin1
+BC,mouse,13,POLR2M - BIN1,Polr2m-Bin1
+BC,mouse,13,SOS1 - BIN1,Sos1-Bin1
+BC,mouse,13,BIN1 - CHMP4B,Bin1-Chmp4b
+BC,mouse,13,BIN1 - CLIP1,Bin1-Clip1
+BC,mouse,13,BIN1 - E2F1,Bin1-E2f1
+BC,mouse,13,BIN1 - EHBP1L1,Bin1-Ehbp1l1
+BC,mouse,13,BIN1 - SNX4,Bin1-Snx4
+BC,mouse,14,CHEK2 - RCHY1,Chek2-Rchy1
+BC,mouse,14,KAT5 - ATM,Kat5-Atm
+BC,mouse,14,TELO2 - ATM,Telo2-Atm
+BC,mouse,14,TCF4 - TWIST1,Tcf4-Twist1
+BC,mouse,14,TCF3 - TWIST1,Tcf3-Twist1
+BC,mouse,14,PPP2R1A - ATM,Ppp2r1a-Atm
+BC,mouse,14,ATM - RRM2B,Atm-Rrm2b
+BC,mouse,14,TRIB3 - TWIST1,Trib3-Twist1
+BC,mouse,16,ERCC4 - SLX4,Ercc4-Slx4
+BC,mouse,16,CHAF1A - MSH6,Chaf1a-Msh6
+BC,mouse,16,NBN - MSH6,Nbn-Msh6
+BC,mouse,16,NBN - FANCD2,Nbn-Fancd2
+BC,mouse,16,NBN - RAD50,Nbn-Rad50
+BC,mouse,16,NBN - RBBP8,Nbn-Rbbp8
+BC,mouse,16,NBN - RFC1,Nbn-Rfc1
+BC,mouse,16,NBN - TOPBP1,Nbn-Topbp1
+BC,mouse,16,RAD50 - USP7,Rad50-Usp7
+BC,mouse,16,MLH3 - FAN1,Mlh3-Fan1
+BC,mouse,16,MSH6 - MSH2,Msh6-Msh2
+BC,mouse,16,MSH6 - RFC1,Msh6-Rfc1
+BC,mouse,16,MSH6 - TOPBP1,Msh6-Topbp1
+BC,mouse,16,APEX1 - MUTYH,Apex1-Mutyh
+BC,mouse,16,FAN1 - MLH1,Fan1-Mlh1
+BC,mouse,16,FAN1 - PMS2,Fan1-Pms2
+BC,mouse,17,HGS - TSG101,Hgs-Tsg101
+BC,mouse,17,CHMP5 - TSG101,Chmp5-Tsg101
+BC,mouse,17,UBAP1 - TSG101,Ubap1-Tsg101
+BC,mouse,17,VPS37C - TSG101,Vps37c-Tsg101
+BC,mouse,17,VPS37A - TSG101,Vps37a-Tsg101
+BC,mouse,17,MGRN1 - TSG101,Mgrn1-Tsg101
+BC,mouse,17,TSG101 - MVB12B,Tsg101-Mvb12b
+BC,mouse,17,TSG101 - SNF8,Tsg101-Snf8
+BC,mouse,17,TSG101 - VPS28,Tsg101-Vps28
+BC,mouse,17,TSG101 - VPS37B,Tsg101-Vps37b
+BC,mouse,21,GNB5 - GNG3,Gnb5-Gng3
+BC,mouse,21,GNB3 - GNG3,Gnb3-Gng3
+BC,mouse,21,GNB1 - GNG3,Gnb1-Gng3
+BC,mouse,21,GNG3 - GNB2,Gng3-Gnb2
+BC,yeast,13,AMPH - BIN1,PIN3-LSB1; LSB1-PIN3
+BC,yeast,13,BIN2 - BIN1,PIN3-LSB1; LSB1-PIN3
+BC,yeast,13,BIN1 - NCAPD3,RVS167-YCS4
+BC,yeast,16,ERCC4 - MSH2,RAD1-MSH2
+BC,yeast,16,ERCC4 - RPA1,RAD1-RFA1
+BC,yeast,16,ERCC4 - ERCC1,RAD1-RAD10
+BC,yeast,16,ERCC4 - MUS81,RAD1-MUS81
+BC,yeast,16,ERCC4 - XPA,RAD1-RAD14
+BC,yeast,16,MSH3 - MLH1,MSH3-MLH1
+BC,yeast,16,MSH3 - MSH2,MSH3-MSH2
+BC,yeast,16,RAD50 - RPA1,RAD50-RFA1
+BC,yeast,16,WDR76 - MSH6,CMR1-MSH6
+BC,yeast,16,WDR76 - MSH2,CMR1-MSH2
+BC,yeast,16,MLH3 - MLH1,MLH3-MLH1
+BC,yeast,16,MLH3 - MSH4,MLH3-MSH4
+BC,yeast,16,MLH3 - MSH5,MLH3-MSH5
+BC,yeast,16,EXO1 - MLH1,EXO1-MLH1
+BC,yeast,16,EXO1 - MSH2,EXO1-MSH2
+BC,yeast,16,MSH6 - MLH1,MSH6-MLH1
+BC,yeast,16,MSH6 - MSH2,MSH6-MSH2
+BC,yeast,16,MSH6 - PCNA,MSH6-POL30
+BC,yeast,16,MSH6 - PMS2,MSH6-PMS1
+BC,yeast,16,MSH2 - MLH1,MSH2-MLH1
+BC,yeast,16,MSH2 - ERCC1,MSH2-RAD10
+BC,yeast,16,MSH2 - HDAC6,MSH2-HDA1
+BC,yeast,16,MSH2 - PCNA,MSH2-POL30
+BC,yeast,16,MSH2 - PMS2,MSH2-PMS1
+BC,yeast,16,MSH2 - RPA1,MSH2-RFA1
+BC,yeast,16,MSH2 - SMARCAD1,MSH2-FUN30
+BC,yeast,16,PMS2 - MLH1,PMS1-MLH1
+BC,yeast,16,PMS2 - PCNA,PMS1-POL30
+BC,yeast,16,MSH4 - MLH1,MSH4-MLH1
+BC,yeast,16,MLH1 - MSH5,MLH1-MSH5
+BC,yeast,16,MLH1 - PCNA,MLH1-POL30
+BC,yeast,17,VPS36 - TSG101,VPS36-STP22
+BC,yeast,17,TSG101 - STAM2,STP22-VPS27; STP22-HSE1
+BC,yeast,17,TSG101 - TOM1L1,STP22-VPS27; STP22-HSE1
+BC,yeast,17,TSG101 - VPS28,STP22-VPS28
+BC,yeast,18,PRC1 - CDK1,ASE1-CDC28
+BC,fly,0,ECT2 - RHOA,pbl-Rho1
+BC,fly,0,CIT - RHOA,sti-Rho1
+BC,fly,0,PKN2 - RHOA,Pkn-Rho1
+BC,fly,0,RHOA - ARHGDIA,Rho1-RhoGDI
+BC,fly,0,RHOA - ARHGDIG,Rho1-RhoGDI
+BC,fly,0,RHOA - ARHGEF2,Rho1-RhoGEF2
+BC,fly,0,RHOA - PKN1,Rho1-Pkn
+BC,fly,0,RHOA - PKN3,Rho1-Pkn
+BC,fly,2,ING4 - TP53,CG7379-p53
+BC,fly,2,ASPM - TP53,asp-p53
+BC,fly,2,TOPORS - TP53,Topors-p53
+BC,fly,2,FUBP1 - TP53,Imp-p53
+BC,fly,2,DZIP3 - TP53,sip3-p53
+BC,fly,2,LRPPRC - TP53,bsf-p53
+BC,fly,2,CRYAB - TP53,Hsp26-p53; Hsp23-p53
+BC,fly,2,ERCC3 - TP53,hay-p53
+BC,fly,2,PIAS2 - TP53,Su(var)2-10-p53
+BC,fly,2,RAD54L2 - TP53,CG4049-p53
+BC,fly,2,BRD3 - TP53,tbrd-1-p53
+BC,fly,2,SYVN1 - TP53,sip3-p53
+BC,fly,2,HSF1 - TP53,Hsf-p53
+BC,fly,2,SENP3 - TP53,Ulp1-p53
+BC,fly,2,ING1 - TP53,CG7379-p53
+BC,fly,2,IGF2BP3 - TP53,Imp-p53
+BC,fly,2,TP53 - SOX4,p53-Sox102F
+BC,fly,3,CADM1 - MPP3,Fas3-vari
+BC,fly,3,NLGN3 - PIK3CA,Glt-Pi3K68D
+BC,fly,3,RET - GFRA1,Ret-Gfrl
+BC,fly,6,EPAS1 - ESR1,sima-ERR
+BC,fly,7,Apc2 - APC,Apc-Apc2; Apc2-Apc
+BC,fly,7,APC - JUP,Apc-arm; Apc2-arm
+BC,fly,7,APC - KIFAP3,Apc-Kap3; Apc2-Kap3
+BC,fly,11,THOC3 - THOC5,tex-thoc5
+BC,fly,11,THOC2 - THOC5,tho2-thoc5
+BC,fly,11,THOC5 - THOC1,thoc5-Hpr1
+BC,fly,11,THOC5 - THOC7,thoc5-thoc7
+BC,fly,12,RAD51C - XRCC3,spn-D-spn-B
+BC,fly,13,MTM1 - BIN1,CG14411-Amph
+BC,fly,14,CHEK2 - GINS2,lok-Psf2
+BC,fly,14,RELA - TWIST1,dl-twi
+BC,fly,14,TCF4 - TWIST1,da-Hand; da-HLH54F; da-twi; da-Fer3
+BC,fly,14,TCF3 - TWIST1,da-Hand; da-HLH54F; da-twi; da-Fer3
+BC,fly,15,USE1 - BSCL2,Use1-Seipin
+BC,fly,16,ERCC4 - ERCC1,mei-9-Ercc1
+BC,fly,16,NBN - RAD50,nbs-rad50
+BC,fly,16,SPTAN1 - MLH1,alpha-Spec-Mlh1
+BC,fly,16,PMS2 - MLH1,Pms2-Mlh1
+BC,fly,17,VPS37C - TSG101,Vps37B-TSG101
+BC,fly,17,TSG101 - ITSN1,TSG101-Dap160
+BC,fly,17,TSG101 - VPS28,TSG101-Vps28
+BC,fly,17,TSG101 - VPS37B,TSG101-Vps37B
+BC,fly,17,TSG101 - VPS37D,TSG101-Vps37B
+BC,fly,20,PTCH1 - ITGA4,ptc-scb
+BC,fly,20,PTCH1 - ITGA6,ptc-scb
+BC,fly,20,PTCH1 - ITGA7,ptc-scb
+BC,fly,20,PTCH1 - ITGAV,ptc-scb
+BC,fly,20,PTCH1 - SMO,ptc-smo
+BC,fly,20,PTCH1 - WWP1,ptc-Su(dx)
