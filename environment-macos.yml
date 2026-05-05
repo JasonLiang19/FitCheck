@@ -1,23 +1,27 @@
 name: bst281final
 channels:
-  - conda-forge
   - bioconda
+  - conda-forge
+  - defaults
 dependencies:
-  - python=3.11
-  - pip
-  - numpy=1.26.4
   - pandas=2.2.2
+  - pip
+  - ipython=9.10.0
+  - seaborn
+  - numpy=1.26.4
+  - python=3.11
+  - jupyter_client=8.8.0
+  - pybiomart=0.2.0
+  - requests_cache=0.4.13
+  - networkx=3.6.1
+  - jupyter_core=5.9.1
+  - requests=2.33.1
+  - statsmodels=0.14.6
   - scipy=1.17.1
   - matplotlib=3.10.8
-  - seaborn
-  - networkx=3.6.1
-  - statsmodels=0.14.6
-  - pybiomart=0.2.0
-  - requests=2.33.1
-  - requests_cache=0.4.13
   - ipykernel=7.2.0
-  - ipython=9.10.0
-  - jupyter_client=8.8.0
-  - jupyter_core=5.9.1
+  - blast
+  - bio
 variables:
   PYTHONNOUSERSITE: '1'
+prefix: /Users/acand/miniconda3/envs/bst281final
