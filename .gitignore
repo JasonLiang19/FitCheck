@@ -1,2 +1,4 @@
 data/Downloads/
 data/proteomes/
+*.zip
+*.pkl
